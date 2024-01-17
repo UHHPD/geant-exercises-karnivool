@@ -1,0 +1,1446 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="567" height="425" viewBox="0 0 567 425" xmlns="http://www.w3.org/2000/svg">
+<title>
+/home/ubuntuuser/geant_exercises/geant-exercises-karnivool/Exercise 6/2a residuals.svg
+</title>
+<desc>
+Creator: ROOT Version 5.32/04
+CreationDate: Wed Jan 10 16:35:26 2024</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="567" height="425" fill="white"/>
+<rect x="6" y="4" width="177" height="204" fill="white"/>
+<rect x="23" y="24" width="143" height="164" fill="white"/>
+<rect x="23" y="24" width="143" height="164" fill="none" stroke="black"/>
+<rect x="23" y="24" width="143" height="164" fill="white"/>
+<rect x="23" y="24" width="143" height="164" fill="none" stroke="black"/>
+<path d="M23,185v 3v -3h 1v 3v -7v 7v -5v 5v -5v 5v -10v 10v -14v 14v -7v 2v -5v 10v -7v 7v -21v 21v -7v 7h 1v -14v 14v -7v 7v -12v 12v -7v 7v -10v 10v -10v 7v -2v 5v -5v 5v -14v 14v -3v 3v -7v 7h 1v -10v 10v -12v 12v -7v 7v -10v 10v -3v 3v -5v 2v
+ -2v 5v -5v 5v -10v 10v -10v 10v -10v 10v -3v 3h 1v -5v 5v -3v 3v -7v 7v -5v 5v -5v 5v -7v 7v -3v 3v -7v 7v -3v 3v -10v 10h 1v -7v 7v -5v 5v -3v 3v -10v 10v -7v 7v -7v 7v -3v 3v -3v 3v -5v 5v -3v 3v -5v 5v -3h 1v 3v -3v 3v -3v 3v -5v 5v -7v 7v -5v 5v
+ -3v 3v -10v 10v -7v 7v -3v 3h 1v -10v 10v -5v 5v -3v 3v -5v 5v -14v 14v -12v 12v -5v 5v -14v 14v -5v 5h 1v -3v 3v -7v 7v -3v 3v -3v 3v -7v 7v -17v 17v -5v 5v -3v 3v -7v 7v -5v 5v -14v 14v -7v 7v -7v 7v -10h 1v 10v -12v 12v -7v 7v -5v 5v -12v 9v -9v
+ 12v -7v 7v -5v 5v -7v 7v -10v 10v -3v 3h 1v -5v 5v -3v 3v -10v 10v -10v 10v -5v 5v -10v 10v -7v 7v -7v 7v -5v 5v -5v 5v -7v 7h 1v -7v 4v -11v 14v -7v 7v -14v 14v -3v 3v -19v 19v -5v 5v -5v 5v -5v 5v -5v 5v -7v 7v -5v 5v -10v 10v -12h 1v 12v -3v 3v
+ -3v 3v -3v 3v -3v 3v -5v 5v -12v 9v -9v 12v -10v 10v -7v 7v -5h 1v 5v -12v 12v -3v 3v -3v 3v -3v 3v -7v 7v -17v 10v -3v 10v -5v 5v -7v 7v -5v 5v -14v 14v -3v 3v -7v 7h 1v -10v 10v -10v 10v -10v 10v -3v 3v -3v 3v -14v 14v -3v 3v -14v 14v -7v 7v -19v
+ 16v -9v 12v -3h 1v 3v -5v 5v -3v 3v -5v 5v -10v 10v -3v 3v -7v 7v -5v 5v -5v 5v -10v 7v -9v 12v -14v 14h 1v -7v 7v -14v 14v -7v 7v -3v 3v -7v 7v -10v 10v -5v 5v -7v 7v -3v 3v -3v 3v -5v 5v -10v 10h 1v -3v 3v -5v 5v -5v 5v -5v 5v -5v 5v -7v 7v -5v 5v
+ -3v 3v -10v 10v -5v 5h 1v -5v 5v -10v 10v -7v 4v -4v 2v -2v 7v -5v 5v -5v 5v -7v 7v -3v 3h 1v -12v 12v -10v 10v -5v 5v -21v 21v -3v 3v -3v 3v -5v 5v -7v 7v -7v 7h 1v -12v 12v -3v 3v -5v 5v -7v 7v -3v 3v -7v 7v -10v 10v -5v 5v -5v 5v -5v 5v -5v 5h 1v
+ -10v 10v -5v 5v -3v 3v -3v 3v -10v 10v -3v 3v -7v 7v -14v 14v -3v 3v -5v 5h 1v -3v 3v -12v 12v -12v 12v -12v 12v -3v 3v -7v 7v -7v 7v -3v 3v -5v 2v -7v 10v -3v 3v -10v 10v -5v 5h 1v -5v 5v -12v 12v -7v 7v -5v 5v -3v 3v -10v 10v -7v 7v -5v 5h 1v -3v
+ 3v -5v 5v -12v 12v -5v 5v -3v 3v -12v 12v -7v 7v -5v 5v -7v 7v -5v 5v -10v 7h 1v 3v -5v 5v -10v 10v -10v 10v -3v 3v -7v 7v -14v 14v -3v 3v -12v 12v -10v 10v -3v 3v -14v 14h 1v -7v 7v -5v 5v -14v 14v -12v 12v -12v 12v -3v 3v -7v 7v -10v 10v -12v 12h
+ 1v -7v 7v -12v 12v -5v 5v -5v 5v -7v 7v -7v 7v -3v 3h 1v -3v 3v -17v 17v -7v 7v -14v 14v -14v 14v -10v 10v -5v 5v -7v 7v -5v 5v -12v 12v -7h 1v 7v -3v 3v -12v 12v -5v 5v -5v 5v -3v 3v -3v 3v -5v 5v -5v 5v -3v 3v -7v 7v -7v 4v -9v 12v -5h 1v 5v -7v
+ 7v -7v 7v -5v 5v -5v 5v -7v 7v -3v 3v -5v 5v -10v 10v -3v 3v -12v 12v -10v 10h 1v -10v 10v -14v 14v -14v 14v -7v 7v -3v 3v -10v 10v -14v 14v -7v 7v -10v 10v -5v 5h 1v -7v 7v -5v 5v -12v 12v -10v 10v -5v 5v -17v 17v -5v 5v -12v 12v -5v 5v -7v 7v -5v
+ 5h 1v -5v 5v -7v 7v -3v 3v -5v 5v -7v 7v -3v 3v -3v 3v -5v 5v -5v 5v -14h 1v 14v -3v 3v -10v 10v -3v 3v -7v 7v -3v 3v -7v 7v -5v 5v -7v 7v -3v 3v -19v 19h 1v -5v 5v -3v 3v -7v 7v -5v 5v -5v 5v -7v 7v -3v 3v -5v 5v -5v 5v -7v 4v -4v 7v -7v 7h 1v -5v
+ 5v -10v 10v -3v 3v -5v 5v -7v 7v -12v 12v -12v 12v -5v 5v -3v 3v -7v 7h 1v -7v 7v -3v 3v -12v 12v -10v 10v -5v 5v -5v 5v -7v 7v -7v 7v -10v 10v -5v 5h 1v -3v 3v -7v 7v -7v 7v -7v 7v -7v 7v -10v 10v -12v 12v -10v 10v -3v 3v -17v 17h 1v -10v 10v -12v
+ 9v -4v 4v -16v 19v -10v 10v -10v 10v -3v 3v -3v 3v -10v 10v -14v 14v -7v 7h 1v -5v 5v -3v 3v -12v 12v -5v 5v -14v 14v -5v 5v -7v 7v -10v 10v -5v 5v -3v 3v -7v 7v -3v 3v -12v 12v -7h 1v -3v 10v -3v 3v -7v 7v -12v 12v -14v 14v -7v 7v -3v 3v -14v 14v
+ -14v 14v -3v 3h 1v -5v 5v -5v 5v -14v 14v -10v 10v -3v 3v -12v 12v -10v 10v -3v 3h 1v -3v 3v -14v 14v -7v 7v -3v 3v -7v 7v -3v 3v -10v 10v -5v 5v -10v 10v -5v 5v -17v 17h 1v -12v 12v -7v 7v -5v 5v -5v 5v -3v 3v -10v 7v -7v 10v -10v 10v -5v 5v -3v 3v
+ -3h 1v -9v 12v -10v 10v -10v 10v -12v 12v -3v 3v -3v 3v -7v 7v -5v 5h 1v -5v 5v -10v 10v -10v 10v -7v 7v -10v 10v -3v 3v -14v 14v -10v 10v -3v 3v -10v 10v -5v 5v -10v 10h 1v -5v 5v -3v 3v -3v 3v -17v 17v -3v 3v -7v 7v -5v 5v -14v 14v -12v 12v -5v 5v
+ -5v 5v -10v 10v -10v 10v -5v 5v -3v 3v -5v 5h 1v -5v 5v -7v 7v -10v 10v -5v 2v -2v 5v -10v 10v -5v 5v -10v 10v -7v 7v -10v 10v -5v 5v -3v 3v -14v 14v -7v 7v -10v 10h 1v -7v 7v -12v 12v -17v 17v -5v 5v -12v 12v -10v 10v -5v 5v -12v 12v -3v 3v -7v 7v
+ -7v 7v -12v 12h 1v -7v 7v -3v 3v -10v 10v -12v 12v -5v 5v -7v 4v -4v 7v -3v 3v -5v 5v -5v 5v -5v 5h 1v -7v 7v -7v 7v -7v 7v -10v 10v -12v 12v -7v 7v -7v 7v -7v 7v -5v 2v -7v 10v -14v 14v -7v 7h 1v -5v 5v -5v 5v -5v 5v -3v 3v -7v 7v -5v 5v -19v 19v
+ -5v 5v -5v 5v -3v 3v -12v 12v -7v 7v -5v 5h 1v -10v 10v -10v 10v -3v 3v -5v 5v -14v 14v -7v 7v -7v 7v -10v 10v -10v 10v -12v 12h 1v -3v 3v -3v 3v -5v 5v -5v 5v -7v 7v -14v 14v -5v 5v -3v 3v -3v 3v -3v 3v -5v 5v -5v 5h 1v -7v 7v -3v 3v -5v 5v -3v 3v
+ -3v 3v -10v 10v -3v 3v -12v 12v -10v 10v -10v 10v -7v 7v -3v 3h 1v -5v 5v -5v 5v -5v 5v -12v 12v -5v 5v -5v 5v -12v 12v -10v 10v -14v 14v -7h 1v 7v -10v 10v -3v 3v -24v 24v -5v 5v -12v 12v -12v 5v -3v 10v -5v 5v -7v 7v -10v 10h 1v -5v 5v -3v 3v -5v
+ 5v -12v 12v -10v 10v -3v 3v -10v 10v -17v 17v -5v 5v -7v 7v -5v 5v -5v 5h 1v -10v 10v -5v 5v -7v 7v -17v 17v -3v 3v -10v 10v -3v 3v -5v 5v -7v 7v -7v 7v -7v 7h 1v -7v 7v -7v 7v -12v 12v -5v 5v -10v 10v -7v 7v -12v 12v -3v 3v -3v 3v -7v 7v -19v 19v
+ -3v 3v -7v 7v -3v 3h 1v -7v 7v -3v 3v -12v 12v -7v 7v -3v 3v -7v 7v -7v 7v -12v 12v -7v 7v -3v 3v -5v 5v -10v 10v -10v 10h 1v -10v 10v -5v 5v -10v 10v -12v 12v -5v 5v -10v 10v -3v 3v -14v 14v -7v 4v -14v 17h 1v -14v 14v -7v 7v -10v 10v -7v 7v -5v 5v
+ -12v 12v -10v 10v -7v 7v -3v 3v -3v 3v -5v 5v -5v 5v -10v 10v -7v 7v -3h 1v 3v -7v 7v -5v 5v -3v 3v -14v 11v -2v 2v -4v 7v -7v 7v -5v 5v -3v 3v -3v 3v -12v 12v -10h 1v 10v -7v 7v -5v 5v -3v 3v -10v 10v -5v 5v -3v 3v -5v 5v -17v 17v -5v 5v -7h 1v 7v
+ -5v 5v -10v 10v -7v 7v -3v 3v -3v 3v -3v 3v -3v 3v -7v 7v -7v 7v -3v 3v -10v 10v -3v 3v -5v 5h 1v -12v 12v -3v 3v -5v 5v -3v 3v -5v 5v -5v 5v -5v 5v -3v 3v -3v 3v -7v 7v -5v 5v -3v 3h 1v -14v 14v -7v 7v -5v 5v -5v 5v -14v 14v -3v 3v -5v 5v -10v 10v
+ -5v 5v -7v 7v -5v 5v -14v 14v -12h 1v 12v -3v 3v -3v 3v -12v 12v -3v 3v -7v 7v -14v 14v -3v 3v -3v 3v -3v 3v -3v 3v -3v 3v -5v 5v -5v 5v -5v 5h 1v -3v 3v -10v 10v -3v 3v -14v 14v -3v 3v -7v 7v -5v 5v -5v 2v -4v 7v -10v 10v -3v 3v -5v 5v -5v 5h 1v
+ -7v 7v -3v 3v -10v 7v -2v 5v -3v 3v -5v 5v -7v 7v -3v 3v -5v 5v -5h 1v 5v -12v 12v -7v 7v -7v 7v -10v 10v -5v 5v -7v 7v -156v 156v -10v 10v -5v 5v -17v 17v -14v 14v -3h 1v 3v -3v 3v -10v 10v -21v 21v -10v 10v -7v 7v -10v 10v -3v 3v -5v 5v -5v 5v -3v
+ 3v -10v 5h 1v 5v -12v 12v -19v 19v -12v 7v -5v 10v -14v 14v -14v 14v -7v 7v -12v 12v -7v 7v -7v 7v -5v 5v -7v 7v -10v 10h 1v -3v 3v -7v 4v -4v 7v -19v 19v -5v 5v -12v 12v -5v 5v -7v 7v -12v 12v -5v 5h 1v -10v 10v -5v 5v -12v 12v -12v 12v -7v 7v -7v
+ 7v -7v 7v -5v 5v -10v 7v -4h 1v 7v -3v 3v -7v 7v -3v 3v -3v 3v -7v 7v -3v 3v -7v 7v -7v 7v -7v 7v -17v 17v -5v 5v -3v 3v -5v 5h 1v -3v 3v -7v 7v -5v 5v -5v 5v -5v 5v -7v 7v -7v 7v -10v 10v -3v 3h 1v -7v 7v -7v 7v -7v 7v -5v 5v -14v 14v -5v 5v -7v 7v
+ -10v 10v -7v 7v -5v 5v -10v 10h 1v -5v 5v -17v 17v -14v 11v -4v 2v -7v 12v -3v 3v -7v 4v -9v 12v -12v 7v -5v 10v -3v 3v -19v 19v -10v 10h 1v -12v 12v -7v 4v -7v 10v -7v 7v -5v 5v -12v 12v -3v 3v -12v 12v -3v 3v -7v 7v -12v 12h 1v -10v 10v -10v 10v
+ -5v 5v -12v 12v -5v 5v -7v 7v -10v 10v -3v 3v -5v 5v -5v 5v -7v 7v -7v 7v -5v 5v -3h 1v 3v -3v 3v -7v 7v -12v 12v -5v 5v -3v 3v -5v 5v -10v 10v -3v 3v -5h 1v 5v -3v 3v -5v 5v -3v 3v -3v 3v -12v 12v -3v 3v -7v 7v -3v 3v -5v 5v -5v 5v -12v 12h 1v -21v
+ 21v -10v 10v -7v 7v -12v 12v -5v 5v -19v 19v -7v 7v -3v 3v -7v 7v -10v 10v -7v 7v -12v 12v -5v 5h 1v -14v 14v -3v 3v -5v 5v -5v 5v -10v 10v -3v 3v -5v 5v -12v 12v -3v 3v -10v 10v -3v 3v -10v 10h 1v -12v 12v -12v 12v -3v 3v -5v 5v -5v 5v -3v 3v -7v
+ 7v -3v 3v -10v 10v -5v 5v -14v 14h 1v -5v 5v -7v 7v -3v 3v -5v 5v -10v 10v -5v 5v -14v 14v -7v 7h 1v -5v 5v -10v 10v -7v 2v -5v 10v -12v 12v -10v 10v -3v 3v -12v 12v -3v 3v -3v 3v -5v 5h 1v -5v 5v -12v 12v -3v 3v -3v 3v -10v 10v -10v 10v -17v 17v
+ -12v 12v -17v 17v -10v 7v -9v 12v -5v 5v -5v 5h 1v -5v 5v -7v 7v -3v 3v -7v 7v -3v 3v -7v 7v -7v 4v -4v 7v -7v 7v -5v 5h 1v -7v 7v -5v 5v -7v 7v -7v 7v -7v 7v -7v 7v -3v 3v -12v 12v -5v 5v -7v 4v -9v 12v -14v 14v -7v 7v -17v 17h 1v -5v 5v -7v 7v
+ -14v 11v -4v 7v -17v 17v -7v 7v -3v 3v -7v 4v -2v 5v -3v 3v -3v 3v -10v 10v -10v 10v -3v 3v -3v 3h 1v -10v 10v -3v 3v -5v 5v -3v 3v -3v 3v -7v 7v -7v 7v -12v 12v -10v 10v -7h 1v 7v -5v 5v -3v 3v -5v 5v -5v 5v -3v 3v -3v 3v -3v 3v -5v 5v -5v 5v -3v
+ 3v -12v 12v -10v 10h 1v -12v 12v -10v 5v -2v 7v -7v 7v -3v 3v -7v 7v -7v 7v -10v 10v -7v 7v -12v 12v -10v 10h 1v -12v 12v -3v 3v -3v 3v -10v 10v -5v 5v -12v 12v -5v 5v -12v 12v -14v 14v -5v 5h 1v -7v 7v -12v 12v -7v 7v -17v 17v -5v 5v -5v 5v -5v 5v
+ -10v 10v -10h 1v 10v -5v 5v -12v 12v -3v 3v -7v 7v -3v 3v -3v 3v -3v 3v -14v 14v -7v 7v -3v 3h 1v -12v 12v -7v 7v -7v 7v -12v 12v -10v 10v -7v 7v -7v 7v -7v 7v -5v 5v -3v 3v -10v 10v -12v 12v -5v 5v -3v 3h 1v -3v 3v -3v 3v -5v 5v -12v 12v -10v 10v
+ -17v 17v -14v 14v -10v 10v -10v 10v -17v 17v -10v 10h 1v -10v 10v -5v 5v -10v 10v -14v 14v -14v 14v -5v 5v -7v 7v -14v 14v -3v 3v -3v 3v -12v 12h 1v -7v 7v -5v 5v -5v 5v -7v 7v -10v 10v -3v 3v -10v 10v -5v 5v -5v 5v -3v 3v -12h 1v 12v -5v 5v -3v 3v
+ -10v 10v -5v 5v -7v 7v -3v 3v -3v 3v -3v 3h 1v -10v 5v -5v 10v -10v 3v -3v 10v -5v 5v -7v 7v -12v 12v -21v 21v -10v 10v -5v 5v -17v 17h 1v -7v 7v -12v 12v -3v 3v -12v 9v -2v 5v -10v 7v -9v 9v -7v 10v -12v 12v -21v 21v -10v 5v -2v 7h 1v -7v 7v -12v
+ 12v -5v 5v -10v 10v -14v 14v -7v 7v -10v 10v -3v 3v -17v 17h 1v -10v 10v -10v 10v -7v 7v -14v 14v -5v 5v -7v 7v -3v 3v -19v 12v -7v 14v -7v 7v -10v 10v -5v 5v -5v 5h 1v -3v 3v -3v 3v -10v 10v -7v 7v -10v 10v -5v 5v -12v 12v -19v 19v -7v 7v -3v 3h 1v
+ -14v 14v -7v 7v -3v 3v -19v 19v -5v 5v -3v 3v -5v 5v -10v 10v -7v 7h 1v -10v 10v -14v 14v -14v 14v -12v 12v -5v 5v -10v 10v -12v 12v -3v 3v -12v 12v -7v 7v -10v 10v -5v 5h 1v -5v 5v -10v 10v -7v 7v -21v 21v -7v 7v -3v 3v -5v 5v -7h 1v 7v -10v 10v
+ -7v 4v -2v 5v -5v 5v -7v 7v -10v 10v -10v 10v -12v 12v -7v 7v -5v 5v -10v 10v -19v 19h 1v -5v 5v -7v 2v -5v 10v -3v 3v -14v 14v -14v 14v -14v 14v -7v 7v -5v 5v -5v 5h 1v -5v 5v -7v 7v -7v 7v -7v 7v -10v 10v -3v 3v -14v 14v -10v 10v -10v 10v -5v 5v
+ -14v 14v -5v 5v -7v 2h 1v 5v -3v 3v -5v 5v -10v 10v -5v 5v -3v 3v -5v 5v -3v 3v -10v 10v -7v 7v -3v 3v -5v 5v -3v 3v -3v 3v -12h 1v 12v -5v 5v -19v 19v -5v 5v -10v 10v -7v 7v -10v 7v -2v 5v -5v 2v -4h 1v 7v -12v 12v -5v 5v -3v 3v -5v 5v -10v 10v
+ -12v 9v -9v 12v -5v 5v -21v 21v -7v 7v -3v 3h 1v -12v 12v -7v 7v -5v 5v -14v 14v -5v 5v -5v 5v -10v 10v -7v 7v -7v 7v -5h 1v 5v -5v 5v -3v 3v -10v 10v -3v 3v -7v 7v -5v 2v -2v 5v -12v 12v -7v 7v -3v 3v -10v 10v -3v 3v -12v 12h 1v -10v 10v -5v 5v -7v
+ 7v -7v 7v -3v 3v -5v 5v -5v 5v -5v 5v -3v 3h 1v -7v 7v -5v 5v -19v 19v -7v 7v -3v 3v -12v 12v -5v 5v -5v 5v -10v 10v -3v 3v -3v 3v -3v 3v -12h 1v -5v 17v -12v 12v -3v 3v -12v 12v -12v 12v -5v 5v -7v 7v -7v 2v -5v 10v -3v 3v -7v 7v -3h 1v -2v 5v -3v
+ 3v -3v 3v -3v 3v -3v 3v -7v 7v -10v 10v -10v 10v -3v 3v -5v 5h 1v -3v 3v -3v 3v -5v 5v -7v 7v -7v 7v -10v 10v -3v 3v -10v 10v -5v 5v -5v 5v -17v 17v -5v 5h 1v -3v 3v -7v 7v -7v 7v -7v 7v -5v 5v -14v 9v -12v 17v -5v 5v -3v 3v -10v 10v -3v 3v -7v 4v
+ -4v 7h 1v -17v 17v -5v 5v -12v 12v -3v 3v -14v 14v -14v 14v -5v 5v -3v 3v -7v 7h 1v -5v 5v -5v 5v -3v 3v -10v 10v -3v 3v -3v 3v -7v 7v -5v 5v -5v 5v -10v 10v -10v 10v -5v 5v -3v 3v -3h 1v 3v -10v 10v -5v 5v -14v 14v -10v 10v -12v 9v -11v 14v -5v 5v
+ -14v 14v -14v 14h 1v -3v 3v -10v 10v -7v 7v -3v 3v -3v 3v -10v 10v -14v 14v -10v 10v -3v 3v -5v 5h 1v -7v 7v -5v 5v -5v 5v -7v 7v -5v 5v -3v 3v -10v 10v -3v 3v -5v 5v -7v 7h 1v -5v 5v -17v 17v -7v 7v -12v 12v -5v 5v -12v 12v -17v 17v -17v 17v -7h 1v
+ 7v -7v 7v -5v 5v -7v 7v -17v 17v -5v 5v -5v 5v -5v 5v -7v 7v -14v 14v -5v 5v -3v 3v -7v 7v -3v 3v -3v 3h 1v -10v 10v -7v 7v -7v 7v -12v 12v -10v 10v -7v 7v -7v 7v -7v 7v -5v 2v -4v 7v -5v 5v -5v 5v -12v 12h 1v -5v 5v -12v 12v -5v 5v -5v 5v -10v 10v
+ -14v 14v -7v 7v -5v 5v -7v 7v -3v 3v -7v 7v -10v 10v -5v 5h 1v -3v 3v -10v 10v -10v 10v -7v 7v -5v 5v -7v 7v -3v 3v -10v 7v -2v 5v -3v 3v -3v 3v -7v 7v -7h 1v 7v -7v 7v -5v 5v -7v 7v -5v 5v -10v 10v -3v 3v -3v 3v -12v 12v -5v 5v -7v 7v -7v 7h 1v
+ -10v 10v -10v 10v -7v 2v -2v 2v -9v 14v -10v 10v -12v 9v -16v 19v -14v 14v -12v 12v -7v 7v -7v 7v -3v 3h 1v -10v 10v -10v 10v -10v 10v -10v 10v -5v 5v -5v 5v -14v 14v -5v 5v -7v 7h 1v -5v 5v -3v 3v -17v 17v -3v 3v -10v 10v -7v 7v -5v 5v -17v 17v -7v
+ 7v -3v 3v -3v 3v -5v 5v -7v 7h 1v -3v 3v -7v 7v -10v 10v -5v 5v -7v 7v -17v 17v -12v 12h 1v -5v 5v -5v 5v -5v 5v -5v 5v -7v 7v -5v 5v -5v 5v -5v 5v -5v 5v -10v 10v -3v 3v -7v 7h 1" fill="none" stroke="#000099"/>
+<path d="M23,188h 143" fill="none" stroke="black"/>
+<text x="149" y="201" fill="black" font-size="6" font-family="Helvetica">
+z [cm]
+</text>
+<path d="M23,183v 5" fill="none" stroke="black"/>
+<path d="M26,185v 3" fill="none" stroke="black"/>
+<path d="M29,185v 3" fill="none" stroke="black"/>
+<path d="M32,185v 3" fill="none" stroke="black"/>
+<path d="M35,185v 3" fill="none" stroke="black"/>
+<path d="M38,183v 5" fill="none" stroke="black"/>
+<path d="M40,185v 3" fill="none" stroke="black"/>
+<path d="M43,185v 3" fill="none" stroke="black"/>
+<path d="M46,185v 3" fill="none" stroke="black"/>
+<path d="M49,185v 3" fill="none" stroke="black"/>
+<path d="M52,183v 5" fill="none" stroke="black"/>
+<path d="M55,185v 3" fill="none" stroke="black"/>
+<path d="M58,185v 3" fill="none" stroke="black"/>
+<path d="M60,185v 3" fill="none" stroke="black"/>
+<path d="M63,185v 3" fill="none" stroke="black"/>
+<path d="M66,183v 5" fill="none" stroke="black"/>
+<path d="M69,185v 3" fill="none" stroke="black"/>
+<path d="M72,185v 3" fill="none" stroke="black"/>
+<path d="M75,185v 3" fill="none" stroke="black"/>
+<path d="M77,185v 3" fill="none" stroke="black"/>
+<path d="M80,183v 5" fill="none" stroke="black"/>
+<path d="M83,185v 3" fill="none" stroke="black"/>
+<path d="M86,185v 3" fill="none" stroke="black"/>
+<path d="M89,185v 3" fill="none" stroke="black"/>
+<path d="M92,185v 3" fill="none" stroke="black"/>
+<path d="M94,183v 5" fill="none" stroke="black"/>
+<path d="M97,185v 3" fill="none" stroke="black"/>
+<path d="M100,185v 3" fill="none" stroke="black"/>
+<path d="M103,185v 3" fill="none" stroke="black"/>
+<path d="M106,185v 3" fill="none" stroke="black"/>
+<path d="M109,183v 5" fill="none" stroke="black"/>
+<path d="M112,185v 3" fill="none" stroke="black"/>
+<path d="M114,185v 3" fill="none" stroke="black"/>
+<path d="M117,185v 3" fill="none" stroke="black"/>
+<path d="M120,185v 3" fill="none" stroke="black"/>
+<path d="M123,183v 5" fill="none" stroke="black"/>
+<path d="M126,185v 3" fill="none" stroke="black"/>
+<path d="M129,185v 3" fill="none" stroke="black"/>
+<path d="M131,185v 3" fill="none" stroke="black"/>
+<path d="M134,185v 3" fill="none" stroke="black"/>
+<path d="M137,183v 5" fill="none" stroke="black"/>
+<path d="M140,185v 3" fill="none" stroke="black"/>
+<path d="M143,185v 3" fill="none" stroke="black"/>
+<path d="M146,185v 3" fill="none" stroke="black"/>
+<path d="M148,185v 3" fill="none" stroke="black"/>
+<path d="M151,183v 5" fill="none" stroke="black"/>
+<path d="M154,185v 3" fill="none" stroke="black"/>
+<path d="M157,185v 3" fill="none" stroke="black"/>
+<path d="M160,185v 3" fill="none" stroke="black"/>
+<path d="M163,185v 3" fill="none" stroke="black"/>
+<path d="M166,183v 5" fill="none" stroke="black"/>
+<text x="19" y="194" fill="black" font-size="6" font-family="Helvetica">
+-50
+</text>
+<text x="33" y="194" fill="black" font-size="6" font-family="Helvetica">
+-40
+</text>
+<text x="47" y="194" fill="black" font-size="6" font-family="Helvetica">
+-30
+</text>
+<text x="61" y="194" fill="black" font-size="6" font-family="Helvetica">
+-20
+</text>
+<text x="76" y="194" fill="black" font-size="6" font-family="Helvetica">
+-10
+</text>
+<text x="93" y="194" fill="black" font-size="6" font-family="Helvetica">
+0
+</text>
+<text x="105" y="194" fill="black" font-size="6" font-family="Helvetica">
+10
+</text>
+<text x="119" y="194" fill="black" font-size="6" font-family="Helvetica">
+20
+</text>
+<text x="134" y="194" fill="black" font-size="6" font-family="Helvetica">
+30
+</text>
+<text x="147" y="194" fill="black" font-size="6" font-family="Helvetica">
+40
+</text>
+<text x="162" y="194" fill="black" font-size="6" font-family="Helvetica">
+50
+</text>
+<path d="M23,188v -164" fill="none" stroke="black"/>
+<g transform="rotate(-90,15,43)">
+<text x="15" y="43" fill="black" font-size="6" font-family="Helvetica">
+ counts
+</text>
+</g>
+<path d="M28,188h -5" fill="none" stroke="black"/>
+<path d="M26,183h -3" fill="none" stroke="black"/>
+<path d="M26,178h -3" fill="none" stroke="black"/>
+<path d="M26,174h -3" fill="none" stroke="black"/>
+<path d="M26,169h -3" fill="none" stroke="black"/>
+<path d="M28,164h -5" fill="none" stroke="black"/>
+<path d="M26,160h -3" fill="none" stroke="black"/>
+<path d="M26,155h -3" fill="none" stroke="black"/>
+<path d="M26,150h -3" fill="none" stroke="black"/>
+<path d="M26,146h -3" fill="none" stroke="black"/>
+<path d="M28,141h -5" fill="none" stroke="black"/>
+<path d="M26,137h -3" fill="none" stroke="black"/>
+<path d="M26,132h -3" fill="none" stroke="black"/>
+<path d="M26,127h -3" fill="none" stroke="black"/>
+<path d="M26,123h -3" fill="none" stroke="black"/>
+<path d="M28,118h -5" fill="none" stroke="black"/>
+<path d="M26,113h -3" fill="none" stroke="black"/>
+<path d="M26,109h -3" fill="none" stroke="black"/>
+<path d="M26,104h -3" fill="none" stroke="black"/>
+<path d="M26,99h -3" fill="none" stroke="black"/>
+<path d="M28,95h -5" fill="none" stroke="black"/>
+<path d="M26,90h -3" fill="none" stroke="black"/>
+<path d="M26,85h -3" fill="none" stroke="black"/>
+<path d="M26,81h -3" fill="none" stroke="black"/>
+<path d="M26,76h -3" fill="none" stroke="black"/>
+<path d="M28,71h -5" fill="none" stroke="black"/>
+<path d="M26,67h -3" fill="none" stroke="black"/>
+<path d="M26,62h -3" fill="none" stroke="black"/>
+<path d="M26,58h -3" fill="none" stroke="black"/>
+<path d="M26,53h -3" fill="none" stroke="black"/>
+<path d="M28,48h -5" fill="none" stroke="black"/>
+<path d="M26,44h -3" fill="none" stroke="black"/>
+<path d="M26,39h -3" fill="none" stroke="black"/>
+<path d="M26,34h -3" fill="none" stroke="black"/>
+<path d="M26,30h -3" fill="none" stroke="black"/>
+<path d="M28,25h -5" fill="none" stroke="black"/>
+<path d="M28,25h -5" fill="none" stroke="black"/>
+<text x="19" y="190" fill="black" font-size="6" font-family="Helvetica">
+0
+</text>
+<text x="16" y="167" fill="black" font-size="6" font-family="Helvetica">
+10
+</text>
+<text x="16" y="144" fill="black" font-size="6" font-family="Helvetica">
+20
+</text>
+<text x="16" y="120" fill="black" font-size="6" font-family="Helvetica">
+30
+</text>
+<text x="16" y="97" fill="black" font-size="6" font-family="Helvetica">
+40
+</text>
+<text x="16" y="74" fill="black" font-size="6" font-family="Helvetica">
+50
+</text>
+<text x="16" y="51" fill="black" font-size="6" font-family="Helvetica">
+60
+</text>
+<text x="16" y="27" fill="black" font-size="6" font-family="Helvetica">
+70
+</text>
+<rect x="144" y="17" width="36" height="33" fill="white"/>
+<path d="M144,50h 36" fill="none" stroke="black"/>
+<path d="M180,50v -33" fill="none" stroke="black"/>
+<path d="M180,17h -36" fill="none" stroke="black"/>
+<path d="M144,17v 33" fill="none" stroke="black"/>
+<text x="152" y="23" fill="black" font-size="6" font-family="Helvetica">
+hlayer1
+</text>
+<path d="M144,25h 36" fill="none" stroke="black"/>
+<text x="146" y="31" fill="black" font-size="5" font-family="Helvetica">
+Entries 
+</text>
+<text x="165" y="31" fill="black" font-size="5" font-family="Helvetica">
+ 2380
+</text>
+<text x="146" y="39" fill="black" font-size="5" font-family="Helvetica">
+Mean  
+</text>
+<text x="161" y="39" fill="black" font-size="5" font-family="Helvetica">
+ 0.7865
+</text>
+<text x="146" y="48" fill="black" font-size="5" font-family="Helvetica">
+RMS   
+</text>
+<text x="162" y="48" fill="black" font-size="5" font-family="Helvetica">
+  28.53
+</text>
+<text x="84" y="13" fill="black" font-size="8" font-family="Helvetica">
+layer1
+</text>
+<rect x="195" y="4" width="177" height="204" fill="white"/>
+<rect x="212" y="24" width="143" height="164" fill="white"/>
+<rect x="212" y="24" width="143" height="164" fill="none" stroke="black"/>
+<rect x="212" y="24" width="143" height="164" fill="white"/>
+<rect x="212" y="24" width="143" height="164" fill="none" stroke="black"/>
+<path d="M212,188v -10v 10h 1v -6v 2v -4v 8v -2v 2v -8v 8v -8v 8v -4v 4v -2v 2v -2v 2v -8v 8v -4v 2v -2v 4v -2h 1v 2v -4v 4v -6v 6v -12v 8v -8v 8v -4v 8v -2v 2v -2v 2v -6v 6v -6v 6v -2v 2v -10v 4v -2v 8v -2v 2v -8v 8v -12h 1v 12v -4v 4v -8v 8v -2v 2v
+ -2v 2v -6v 6v -10v 10v -6v 6v -6v 6v -2v 2v -6v 6v -6v 4v -2v 4v -4h 1v 4v -4v 4v -8v 8v -8v 8v -2v 2v -2v 2v -2v 2v -8v 8v -6v 6v -10v 10v -2v 2v -6v 6v -6v 4v -2v 4v -4v 4v -6v 6h 1v -2v 2v -2v 2v -8v 8v -2v 2v -8v 8v -8v 4v -4v 8v -10v 10v -6v 6v
+ -2v 2v -8v 8h 1v -4v 4v -12v 10v -8v 10v -4v 4v -2v 2v -2v 2v -10v 6v -4v 8v -4v 4v -2v 2v -4v 4h 1v -2v 2v -6v 6v -2v 2v -8v 8v -2v 2v -4v 4v -4v 4v -2v 2v -2v 2v -6v 6v -4h 1v 4v -8v 8v -4v 4v -4v 4v -2v 2v -4v 4v -14v 14v -12v 12v -6v 6v -2v 2v
+ -2v 2v -4v 2v -2v 4v -4v 2h 1v -4v 6v -2v 2v -4v 4v -8v 8v -10v 8v -14v 16v -2v 2v -12v 12v -10v 10h 1v -2v 2v -4v 4v -4v 4v -10v 10v -8v 8v -6v 6v -8v 8v -4v 4v -2v 2v -10v 10v -6v 6v -4v 4v -4v 4v -4h 1v 4v -2v 2v -8v 8v -6v 6v -2v 2v -6v 6v -2v
+ 2v -4v 4v -6v 6v -4v 2v -2v 4v -10h 1v 10v -2v 2v -4v 4v -8v 8v -6v 6v -8v 8v -4v 4v -6v 4v -6v 8v -10v 10v -8v 8v -4v 4v -4v 4v -10v 10v -4v 4v -8v 8h 1v -4v 4v -2v 2v -6v 6v -4v 4v -8v 8v -8v 8v -10v 10v -2v 2v -6v 6v -2v 2v -6v 6h 1v -6v 6v -6v
+ 6v -6v 6v -8v 6v -2v 4v -4v 4v -2v 2v -6v 6v -4v 4v -2v 2v -4v 4v -4v 4v -6v 6v -6h 1v 6v -2v 2v -2v 2v -2v 2v -6v 6v -6v 6v -2v 2v -6v 6v -2v 2v -4v 4v -6v 6v -6v 6v -6v 4h 1v 2v -8v 8v -12v 12v -10v 10v -2v 2v -4v 4v -10v 10v -2v 2v -6v 6v -16v
+ 16v -4v 4h 1v -8v 8v -12v 12v -2v 2v -6v 6v -6v 6v -4v 4v -2v 2v -6v 6v -4v 4v -8v 8v -2v 2v -2v 2v -8v 8v -2v 2v -4v 2h 1v -6v 8v -4v 4v -6v 6v -10v 10v -4v 4v -2v 2v -2v 2v -4v 4v -6v 6v -2v 2v -4v 4v -4v 4v -8v 8v -4v 2h 1v 2v -2v 2v -14v 14v -4v
+ 4v -2v 2v -12v 12v -6v 6v -4v 4v -4v 4v -2v 2v -2h 1v -6v 8v -2v 2v -6v 6v -2v 2v -6v 6v -4v 4v -8v 8v -10v 6v -2v 6v -6v 6v -2v 2v -2v 2v -8v 8h 1v -4v 4v -12v 12v -12v 12v -8v 8v -2v 2v -8v 8v -18v 18v -4v 4v -10v 10v -6v 6v -6v 2h 1v 4v -8v 8v
+ -6v 6v -8v 8v -4v 4v -4v 4v -6v 6v -8v 8v -14v 14v -10v 10v -4v 4v -8v 8v -2v 2v -4h 1v 4v -8v 8v -10v 10v -4v 4v -6v 6v -10v 10v -8v 8v -6v 6v -4v 4v -12v 12v -4v 4h 1v -8v 6v -8v 10v -4v 4v -2v 2v -4v 4v -6v 6v -6v 6v -4v 4v -6v 6v -4v 4v -6v 6v
+ -2v 2v -2v 2h 1v -2v 2v -6v 6v -4v 4v -2v 2v -2v 2v -6v 6v -2v 2v -2v 2v -10v 10v -4h 1v 4v -2v 2v -8v 8v -10v 10v -6v 6v -2v 2v -8h 1v 8v -4v 4v -2v 2v -4v 4v -10v 10v -6v 6v -4v 4v -6v 6v -8v 8v -4v 2v -2v 4v -4v 4h 1v -8v 8v -2v 2v -10v 10v -8v
+ 8v -2v 2v -6v 6v -14v 6v -4v 12v -2v 2v -6v 6v -2v 2h 1v -2v 2v -4v 4v -8v 8v -10v 10v -2v 2v -6v 6v -6v 6v -4v 4v -2v 2v -2v 2v -6v 6v -4v 4v -4v 4v -2v 2h 1v -4v 4v -16v 16v -6v 6v -10v 10v -10v 10v -4v 4v -6v 6v -8v 8h 1v -6v 6v -8v 8v -2v 2v -4v
+ 4v -8v 8v -10v 10v -8v 8v -6v 6v -2v 2v -6v 4h 1v 2v -8v 8v -4v 4v -12v 12v -12v 12v -4v 4v -4v 4v -4v 4v -2v 2v -4v 4v -10v 10v -10v 10v -4v 4h 1v -6v 2v -2v 6v -6v 6v -2v 2v -8v 8v -4v 4v -4v 4v -2v 2v -8v 8v -8v 8v -4v 2v -8v 10v -4v 4h 1v -4v 4v
+ -4v 4v -8v 8v -6v 6v -2v 2v -8v 8v -4v 4v -14v 12v -4v 6v -6v 6v -4v 4v -12v 12v -6v 6v -6v 4h 1v -2v 4v -2v 2v -8v 8v -10v 10v -10v 10v -6v 6v -6v 6v -8v 8v -8v 8v -8v 2v -2v 8v -2v 2v -4h 1v 4v -6v 6v -8v 8v -4v 4v -4v 4v -2v 2v -4v 4v -18v 18v
+ -10v 10v -12v 12v -10h 1v 10v -2v 2v -10v 10v -6v 6v -10v 10v -6v 6v -4v 4v -6v 6v -8v 8v -2v 2v -8v 8v -2v 2v -10v 6v -4h 1v 8v -6v 6v -2v 2v -8v 8v -4v 4v -8v 8v -2v 2v -14v 14v -8v 8v -2v 2v -2v 2v -8h 1v 8v -10v 10v -8v 8v -12v 12v -2v 2v -4v 4v
+ -12v 12v -2v 2v -4v 4v -6v 6v -6v 6v -2v 2v -16v 14v -10v 12v -4v 4h 1v -2v 2v -2v 2v -8v 8v -4v 4v -8v 8v -6v 6v -4v 4v -4v 4v -6v 6v -14v 10v -12v 16v -2h 1v 2v -2v 2v -4v 4v -6v 6v -4v 4v -8v 8v -4v 4v -2v 2v -12v 12v -14v 14v -2v 2v -6v 6v -8h
+ 1v 8v -4v 4v -6v 6v -2v 2v -6v 6v -12v 12v -2v 2v -8v 8v -4v 4v -2v 2v -16v 16v -6v 6v -2h 1v -2v 4v -6v 6v -4v 4v -6v 6v -14v 14v -2v 2v -4v 4v -8v 8v -2v 2v -2v 2v -4v 4h 1v -2v 2v -2v 2v -8v 8v -6v 6v -2v 2v -2v 2v -4v 4v -2v 2v -6v 6v -2v 2h 1v
+ -8v 8v -4v 4v -4v 4v -12v 12v -8v 8v -4v 4v -10v 10v -2v 2v -4v 4v -6v 6v -4v 4v -8v 8v -2h 1v -2v 4v -2v 2v -2v 2v -10v 10v -2v 2v -6v 6v -4v 4v -10v 10v -4v 4v -2h 1v 2v -6v 6v -4v 4v -6v 6v -2v 2v -6v 6v -6v 6v -4v 4v -8v 8v -8v 8h 1v -4v 4v -2v
+ 2v -12v 12v -8v 8v -10v 10v -6v 6v -6v 6v -12v 12v -14v 14v -4v 4h 1v -16v 16v -2v 2v -18v 18v -8v 8v -10v 10v -4v 4v -8v 8v -8v 8v -2v 2v -8v 8h 1v -2v 2v -2v 2v -10v 10v -4v 4v -6v 6v -6v 6v -4v 4v -4v 4v -6v 6v -6v 6v -2v 2v -4v 4v -8v 8v -16v
+ 16h 1v -2v 2v -4v 4v -8v 8v -6v 6v -6v 6v -2v 2v -2v 2v -2v 2v -2v 2v -2v 2h 1v -4v 4v -6v 6v -6v 6v -6v 6v -2v 2v -6v 6v -4v 4v -4v 4v -6v 6v -2v 2v -14v 14v -8v 6v -2v 4v -4v 4h 1v -4v 4v -2v 2v -6v 6v -18v 18v -4v 4v -6v 4v -4v 6v -4v 4v -2v 2v
+ -2v 2h 1v -6v 6v -2v 2v -4v 4v -2v 2v -6v 6v -12v 12v -6v 6v -8v 6v -4v 6v -4v 4v -16v 16v -4v 4v -4v 4h 1v -14v 14v -6v 6v -6v 6v -10v 10v -6v 6v -4v 4v -4v 4v -6v 6v -4v 4h 1v -4v 4v -6v 6v -2v 2v -6v 6v -6v 6v -6v 6v -12v 12v -4v 4h 1v -6v 6v -4v
+ 4v -2v 2v -4v 4v -8v 8v -2v 2v -6v 6v -4v 4v -2v 2v -4v 4h 1v -12v 12v -8v 8v -4v 4v -8v 8v -6v 6v -6v 2v -2v 6v -2v 2v -4v 4v -6v 6v -4v 4v -4v 4v -6h 1v 6v -12v 10v -8v 10v -4v 4v -4v 4v -6v 6v -4v 4v -4v 4v -6v 6v -6v 6v -2v 2v -4v 4v -2v 2v -10v
+ 10v -8v 8h 1v -2v 2v -4v 4v -8v 8v -2v 2v -2v 2v -6v 6v -2v 2v -8v 8v -10v 10v -6v 6v -4v 4h 1v -4v 4v -8v 8v -6v 6v -12v 12v -6v 6v -8v 4v -2v 4v -2v 4v -12v 12v -10v 8v -4v 6v -8v 8v -4v 4h 1v -6v 6v -2v 2v -6v 6v -12v 12v -2v 2v -2v 2v -2v 2v -8v
+ 8v -12v 10v -4v 6v -2v 2v -8v 8v -8v 8v -6v 6h 1v -6v 4v -2v 2v -8v 10v -2v 2v -2v 2v -10v 10v -6v 6v -2v 2v -22v 22v -4v 4v -2v 2v -4v 4v -2v 2h 1v -14v 14v -6v 6v -8v 8v -8v 8v -2v 2v -10v 10v -2v 2v -6v 6v -6v 6v -4v 4v -4v 2v -4v 6v -4v 4v -4v
+ 4h 1v -2v 2v -8v 8v -4v 4v -6v 6v -6v 6v -6v 6v -2v 2v -8v 8h 1v -2v 2v -10v 10v -6v 2v -10v 14v -8v 8v -6v 6v -8v 8v -6v 6h 1v -18v 18v -6v 6v -2v 2v -8v 8v -4v 4v -12v 12v -10v 10v -12v 12v -2v 2v -6v 6h 1v -4v 4v -8v 8v -2v 2v -6v 6v -4v 2v -4v
+ 6v -16v 16v -20v 20v -6v 6v -12v 6v -2v 8v -4v 4v -4h 1v 4v -4v 4v -6v 6v -4v 4v -6v 6v -14v 14v -4v 4v -2v 2v -2v 2v -4v 4v -2v 2v -2v 2v -4v 4v -10v 6v -2h 1v 6v -10v 8v -4v 6v -4v 4v -8v 8v -4v 4v -2v 2v -2v 2v -4v 4v -4v 4v -2v 2v -6v 6v -4v 4v
+ -14v 14h 1v -2v 2v -8v 8v -6v 6v -6v 2v -4v 8v -8v 8v -6v 6v -6v 6v -6v 6v -4v 4v -8v 8v -4h 1v -2v 6v -6v 6v -2v 2v -6v 6v -4v 2v -4v 6v -8v 8v -6v 6v -2v 2v -2v 2v -2v 2v -6v 6v -8v 8h 1v -8v 8v -2v 2v -10v 10v -4v 4v -6v 6v -4v 4v -10v 10v -4v 4v
+ -12v 12v -6h 1v 6v -4v 4v -2v 2v -2v 2v -2v 2v -6v 6v -14v 14v -4v 4v -2v 2v -10v 10v -6v 6v -4v 4v -6v 6h 1v -2v 2v -16v 16v -4v 4v -10v 10v -6v 6v -2v 2v -2v 2v -10v 10v -4v 4h 1v -156v 156v -8v 8v -4v 4v -4v 4v -2v 2v -4v 4v -6v 6v -6v 6v -8v 8v
+ -6v 6v -8v 8v -12v 12v -10h 1v 10v -2v 2v -6v 6v -4v 4v -6v 6v -20v 20v -12v 12v -4v 4v -4v 4v -4v 4v -4v 4v -8h 1v 8v -4v 4v -4v 4v -6v 2v -10v 14v -6v 6v -2v 2v -6v 6v -2v 2v -4v 4v -8v 8v -2v 2h 1v -6v 6v -4v 4v -6v 6v -4v 4v -10v 10v -6v 6v -12v
+ 12v -2v 2v -2v 2v -4v 4v -4v 2v -4v 6h 1v -6v 4v -2v 4v -2v 2v -8v 8v -12v 12v -4v 4v -6v 4v -2v 4v -4v 4v -8v 4v -4v 8v -6v 6v -4v 4h 1v -8v 8v -6v 6v -6v 6v -6v 6v -6v 6v -6v 6v -6v 6v -2v 2v -6v 6v -12v 12v -8v 8h 1v -4v 4v -4v 4v -4v 4v -6v 6v
+ -6v 6v -6v 6v -4v 4v -8v 8v -4v 4v -6v 6h 1v -2v 2v -4v 4v -4v 4v -6v 6v -16v 16v -4v 4v -2v 2v -2v 2v -2v 2v -8v 8v -2h 1v 2v -12v 12v -2v 2v -6v 6v -6v 4v -8v 10v -4v 4v -2v 2v -2v 2v -8v 8v -16v 16v -4h 1v -2v 6v -4v 4v -10v 10v -2v 2v -4v 4v
+ -14v 10v -2v 6v -6v 6v -8v 8v -14v 14v -2h 1v 2v -20v 20v -6v 6v -6v 6v -4v 4v -4v 4v -8v 8v -8v 8v -8v 8v -8v 8v -4v 4h 1v -4v 4v -2v 2v -8v 8v -8v 8v -12v 12v -8v 8v -8v 8v -14v 14v -2v 2v -2v 2v -6h 1v -4v 10v -10v 10v -4v 4v -6v 6v -6v 6v -2v 2v
+ -4v 4v -10v 10v -12v 12v -2v 2v -8v 8h 1v -2v 2v -6v 6v -4v 4v -2v 2v -6v 6v -6v 6v -10v 10v -2v 2v -6v 6v -6v 6v -4v 4h 1v -2v 2v -6v 6v -8v 4v -2v 6v -2v 2v -2v 2v -2v 2v -10v 10v -2v 2v -6v 6v -8v 8v -8v 4h 1v 4v -6v 6v -6v 6v -2v 2v -4v 4v -2v
+ 2v -6v 6v -2v 2v -2v 2v -6v 6v -4v 4v -4v 4v -2v 2v -14h 1v 14v -4v 4v -6v 6v -4v 4v -8v 8v -4v 4v -2v 2v -8v 8v -14v 14v -6h 1v 6v -2v 2v -8v 8v -8v 8v -8v 8v -6v 6v -2v 2v -4v 4v -6v 6v -8v 8v -6v 6v -6v 6v -2h 1v -8v 10v -10v 10v -4v 4v -6v 6v
+ -8v 8v -6v 6v -2v 2v -6v 6v -4v 4v -6v 2h 1v -2v 6v -8v 6v -2v 4v -8v 8v -14v 14v -2v 2v -8v 8v -4h 1v 4v -8v 8v -2v 2v -10v 10v -2v 2v -8v 8v -10v 10v -2v 2v -4v 4v -6v 6v -2v 2v -6v 6v -6v 6h 1v -6v 6v -6v 6v -8v 8v -6v 6v -14v 14v -2v 2v -10v 10v
+ -2v 2v -2v 2v -12v 12h 1v -2v 2v -6v 6v -4v 4v -4v 4v -6v 6v -2v 2v -2v 2v -4v 4v -2v 2v -4v 4v -8v 8v -6v 6v -6v 6h 1v -6v 6v -4v 4v -12v 12v -2v 2v -8v 8v -4v 4v -2v 2v -2v 2v -4v 4v -2v 2v -2v 2v -2v 2v -10v 10v -4v 4h 1v -2v 2v -4v 4v -2v 2v -8v
+ 8v -8v 8v -4v 4v -6v 6v -6v 6v -4v 4v -2v 2v -8v 8v -2v 2h 1v -2v 2v -16v 16v -6v 6v -6v 6v -4v 4v -8v 8v -8v 8v -2v 2v -2v 2v -12v 12v -6v 6v -2v 2v -2v 2h 1v -6v 6v -14v 14v -2v 2v -4v 4v -4v 4v -2v 2v -4v 4v -10v 10v -4v 4v -2v 2v -6v 6v -2v 2v
+ -14v 14v -8h 1v 8v -2v 2v -10v 10v -4v 4v -8v 8v -4v 4v -12v 12v -6v 6v -4v 4v -2v 2v -4v 4v -12v 6h 1v 6v -8v 8v -2v 2v -2v 2v -6v 6v -2v 2v -10v 10v -2v 2v -12v 12v -10v 10v -2v 2h 1v -6v 6v -8v 8v -6v 6v -2v 2v -6v 6v -12v 12v -4v 4v -2v 2v -4v
+ 4h 1v -4v 4v -8v 8v -6v 6v -8v 8v -6v 6v -2v 2v -8v 8v -8v 8v -2v 2v -2v 2h 1v -6v 6v -6v 4v -4v 6v -8v 8v -4v 4v -4v 4v -8v 8v -8v 8v -4v 4v -2v 2v -2v 2v -6v 6h 1v -2v 2v -4v 4v -8v 8v -6v 6v -2v 2v -4v 4v -8v 8v -4v 4v -2v 2v -4v 4v -10v 10h 1v
+ -8v 8v -6v 6v -8v 8v -10v 10v -6v 6v -2v 2v -10v 10v -8v 2v -2v 8v -16v 16v -8v 8v -8h 1v 8v -8v 8v -4v 4v -2v 2v -4v 4v -6v 6v -2v 2v -2v 2v -4v 4v -14v 14v -4v 4v -6v 6v -2v 2v -4v 2h 1v 2v -2v 2v -8v 8v -4v 4v -8v 2v -2v 8v -10v 10v -8v 8v -6v 6v
+ -2v 2v -6v 6v -10v 10h 1v -2v 2v -12v 12v -12v 12v -4v 4v -2v 2v -6v 6v -6v 6v -6v 6v -4v 4v -10v 10v -6v 6v -4v 4h 1v -4v 4v -6v 6v -10v 10v -10v 10v -6v 6v -10v 10v -6v 6v -8v 8v -6v 6h 1v -8v 8v -6v 6v -8v 8v -8v 8v -12v 12v -6v 6v -8v 8v -4v 4v
+ -6v 6v -4v 4v -2h 1v 2v -2v 2v -4v 4v -10v 10v -10v 10v -6v 6v -4v 4v -10v 10v -4v 4v -2v 2v -6v 6v -4v 4v -6v 4h 1v 2v -10v 10v -2v 2v -6v 6v -2v 2v -6v 6v -8v 8v -2v 2v -4v 4v -2v 2v -14v 14h 1v -10v 10v -10v 10v -10v 10v -6v 6v -2v 2v -10v 10v
+ -4v 4v -6v 6v -8v 8v -10v 10v -6v 6v -4h 1v 4v -6v 6v -2v 2v -10v 10v -6v 6v -4v 4v -8v 6v -8v 10v -6v 6v -8v 8v -2v 2v -4v 4v -16v 16h 1v -6v 6v -8v 8v -14v 14v -6v 6v -4v 4v -2v 2v -2v 2v -4v 4v -8v 8v -4v 2v -4v 4v -2v 4h 1v -6v 6v -6v 6v -2v 2v
+ -6v 6v -6v 6v -2v 2v -6v 6v -2v 2v -8v 8v -2v 2v -4v 4v -4v 4v -2v 2h 1v -6v 6v -4v 4v -6v 6v -8v 8v -6v 6v -10v 10v -10v 10v -2v 2v -4v 4v -2v 2v -6v 6v -4v 4v -6v 6v -18v 18h 1v -4v 4v -8v 8v -6v 6v -4v 4v -6v 6v -8v 8v -6v 6v -6v 6v -10v 6v -6v
+ 10h 1v -4v 4v -8v 8v -4v 4v -4v 4v -4v 4v -4v 4v -4v 4v -12v 12v -2h 1v 2v -10v 10v -6v 6v -6v 6v -2v 2v -8v 8v -18v 18v -10v 10v -6v 6v -4v 4v -8v 8v -4h 1v 4v -12v 12v -4v 4v -8v 6v -4v 6v -2v 2v -8v 8v -2v 2v -4v 4v -2v 2v -12v 12v -8v 8h 1v -6v
+ 6v -6v 6v -8v 8v -4v 4v -2v 2v -8v 8v -12v 12v -12v 12v -2v 2v -2v 2v -4v 4h 1v -4v 4v -4v 4v -2v 2v -2v 2v -8v 8v -6v 6v -8v 8v -2v 2v -4v 4v -2v 2v -6v 6v -2v 2v -4v 4v -4v 4h 1v -6v 6v -6v 6v -8v 8v -12v 12v -4v 4v -4v 4v -6v 6v -2v 2v -8v 8v -6v
+ 6v -4v 4v -4v 4v -2h 1v 2v -10v 10v -6v 6v -8v 8v -6v 6v -4v 4v -2v 2v -8v 8v -4v 4v -2v 2v -6v 6v -4v 4h 1v -2v 2v -10v 10v -8v 6v -8v 10v -4v 4v -10v 10v -4v 4v -4v 4v -4v 4v -4v 4v -4v 4v -2v 2v -6v 6h 1v -6v 6v -2v 2v -6v 6v -4v 4v -4v 4v -6v 6v
+ -10v 10v -12v 12v -8v 8v -8v 8v -4v 4h 1v -6v 2v -4v 8v -4v 4v -10v 10v -18v 18v -4v 4v -2v 2v -8v 8v -4v 4v -4v 4v -8v 8v -4v 4v -8v 8v -10v 10v -2v 2h 1v -10v 10v -6v 6v -4v 4v -2v 2v -6v 6v -2v 2v -2v 2v -12v 12v -4h 1v 4v -10v 10v -6v 6v -6v 4v
+ -2v 4v -4v 4v -6v 6v -6v 6v -2v 2v -10v 10v -6v 6v -6v 6v -4v 4h 1v -4v 4v -2v 2v -6v 6v -10v 8v -2v 4v -2v 2v -2v 2v -4v 2v -8v 10v -10v 10h 1v -8v 8v -12v 12v -2v 2v -6v 6v -4v 4v -6v 6v -4v 4v -4v 4v -8v 8v -6v 6v -2v 2v -8v 8h 1v -4v 4v -10v 10v
+ -6v 6v -2v 2v -6v 6v -8v 8v -2v 2v -4v 4v -6v 2v -2v 6v -8v 8v -2v 2v -2v 2h 1v -4v 4v -2v 2v -6v 6v -6v 6v -10v 10v -2v 2v -12v 12v -8v 8v -6v 6v -2h 1v -6v 8v -12v 12v -14v 14v -4v 4v -10v 10v -6v 6v -12v 12v -4v 4v -4v 4v -2v 2h 1v -2v 2v -4v 4v
+ -6v 6v -10v 8v -10v 12v -2v 2v -2v 2v -2v 2v -6v 6v -6v 6v -4v 2h 1v 2v -4v 4v -4v 4v -8v 8v -10v 10v -2v 2v -12v 12v -2v 2v -6v 6v -12h 1v 12v -2v 2v -8v 8v -4v 4v -2v 2v -4v 2v -4v 6v -4v 4v -2v 2v -6v 6v -2v 2v -8v 8v -2v 2v -4h 1" fill="none"
+ stroke="#000099"/>
+<path d="M212,188h 143" fill="none" stroke="black"/>
+<text x="338" y="201" fill="black" font-size="6" font-family="Helvetica">
+z [cm]
+</text>
+<path d="M212,183v 5" fill="none" stroke="black"/>
+<path d="M215,185v 3" fill="none" stroke="black"/>
+<path d="M218,185v 3" fill="none" stroke="black"/>
+<path d="M221,185v 3" fill="none" stroke="black"/>
+<path d="M224,185v 3" fill="none" stroke="black"/>
+<path d="M227,183v 5" fill="none" stroke="black"/>
+<path d="M229,185v 3" fill="none" stroke="black"/>
+<path d="M232,185v 3" fill="none" stroke="black"/>
+<path d="M235,185v 3" fill="none" stroke="black"/>
+<path d="M238,185v 3" fill="none" stroke="black"/>
+<path d="M241,183v 5" fill="none" stroke="black"/>
+<path d="M244,185v 3" fill="none" stroke="black"/>
+<path d="M247,185v 3" fill="none" stroke="black"/>
+<path d="M249,185v 3" fill="none" stroke="black"/>
+<path d="M252,185v 3" fill="none" stroke="black"/>
+<path d="M255,183v 5" fill="none" stroke="black"/>
+<path d="M258,185v 3" fill="none" stroke="black"/>
+<path d="M261,185v 3" fill="none" stroke="black"/>
+<path d="M264,185v 3" fill="none" stroke="black"/>
+<path d="M266,185v 3" fill="none" stroke="black"/>
+<path d="M269,183v 5" fill="none" stroke="black"/>
+<path d="M272,185v 3" fill="none" stroke="black"/>
+<path d="M275,185v 3" fill="none" stroke="black"/>
+<path d="M278,185v 3" fill="none" stroke="black"/>
+<path d="M281,185v 3" fill="none" stroke="black"/>
+<path d="M283,183v 5" fill="none" stroke="black"/>
+<path d="M286,185v 3" fill="none" stroke="black"/>
+<path d="M289,185v 3" fill="none" stroke="black"/>
+<path d="M292,185v 3" fill="none" stroke="black"/>
+<path d="M295,185v 3" fill="none" stroke="black"/>
+<path d="M298,183v 5" fill="none" stroke="black"/>
+<path d="M301,185v 3" fill="none" stroke="black"/>
+<path d="M303,185v 3" fill="none" stroke="black"/>
+<path d="M306,185v 3" fill="none" stroke="black"/>
+<path d="M309,185v 3" fill="none" stroke="black"/>
+<path d="M312,183v 5" fill="none" stroke="black"/>
+<path d="M315,185v 3" fill="none" stroke="black"/>
+<path d="M318,185v 3" fill="none" stroke="black"/>
+<path d="M320,185v 3" fill="none" stroke="black"/>
+<path d="M323,185v 3" fill="none" stroke="black"/>
+<path d="M326,183v 5" fill="none" stroke="black"/>
+<path d="M329,185v 3" fill="none" stroke="black"/>
+<path d="M332,185v 3" fill="none" stroke="black"/>
+<path d="M335,185v 3" fill="none" stroke="black"/>
+<path d="M337,185v 3" fill="none" stroke="black"/>
+<path d="M340,183v 5" fill="none" stroke="black"/>
+<path d="M343,185v 3" fill="none" stroke="black"/>
+<path d="M346,185v 3" fill="none" stroke="black"/>
+<path d="M349,185v 3" fill="none" stroke="black"/>
+<path d="M352,185v 3" fill="none" stroke="black"/>
+<path d="M355,183v 5" fill="none" stroke="black"/>
+<text x="208" y="194" fill="black" font-size="6" font-family="Helvetica">
+-50
+</text>
+<text x="222" y="194" fill="black" font-size="6" font-family="Helvetica">
+-40
+</text>
+<text x="236" y="194" fill="black" font-size="6" font-family="Helvetica">
+-30
+</text>
+<text x="250" y="194" fill="black" font-size="6" font-family="Helvetica">
+-20
+</text>
+<text x="265" y="194" fill="black" font-size="6" font-family="Helvetica">
+-10
+</text>
+<text x="281" y="194" fill="black" font-size="6" font-family="Helvetica">
+0
+</text>
+<text x="294" y="194" fill="black" font-size="6" font-family="Helvetica">
+10
+</text>
+<text x="308" y="194" fill="black" font-size="6" font-family="Helvetica">
+20
+</text>
+<text x="323" y="194" fill="black" font-size="6" font-family="Helvetica">
+30
+</text>
+<text x="336" y="194" fill="black" font-size="6" font-family="Helvetica">
+40
+</text>
+<text x="351" y="194" fill="black" font-size="6" font-family="Helvetica">
+50
+</text>
+<path d="M212,188v -164" fill="none" stroke="black"/>
+<g transform="rotate(-90,204,43)">
+<text x="204" y="43" fill="black" font-size="6" font-family="Helvetica">
+ counts
+</text>
+</g>
+<path d="M217,188h -5" fill="none" stroke="black"/>
+<path d="M215,184h -3" fill="none" stroke="black"/>
+<path d="M215,180h -3" fill="none" stroke="black"/>
+<path d="M215,176h -3" fill="none" stroke="black"/>
+<path d="M215,172h -3" fill="none" stroke="black"/>
+<path d="M217,168h -5" fill="none" stroke="black"/>
+<path d="M215,165h -3" fill="none" stroke="black"/>
+<path d="M215,161h -3" fill="none" stroke="black"/>
+<path d="M215,157h -3" fill="none" stroke="black"/>
+<path d="M215,153h -3" fill="none" stroke="black"/>
+<path d="M217,149h -5" fill="none" stroke="black"/>
+<path d="M215,145h -3" fill="none" stroke="black"/>
+<path d="M215,142h -3" fill="none" stroke="black"/>
+<path d="M215,138h -3" fill="none" stroke="black"/>
+<path d="M215,134h -3" fill="none" stroke="black"/>
+<path d="M217,130h -5" fill="none" stroke="black"/>
+<path d="M215,126h -3" fill="none" stroke="black"/>
+<path d="M215,122h -3" fill="none" stroke="black"/>
+<path d="M215,118h -3" fill="none" stroke="black"/>
+<path d="M215,115h -3" fill="none" stroke="black"/>
+<path d="M217,111h -5" fill="none" stroke="black"/>
+<path d="M215,107h -3" fill="none" stroke="black"/>
+<path d="M215,103h -3" fill="none" stroke="black"/>
+<path d="M215,99h -3" fill="none" stroke="black"/>
+<path d="M215,95h -3" fill="none" stroke="black"/>
+<path d="M217,92h -5" fill="none" stroke="black"/>
+<path d="M215,88h -3" fill="none" stroke="black"/>
+<path d="M215,84h -3" fill="none" stroke="black"/>
+<path d="M215,80h -3" fill="none" stroke="black"/>
+<path d="M215,76h -3" fill="none" stroke="black"/>
+<path d="M217,72h -5" fill="none" stroke="black"/>
+<path d="M215,69h -3" fill="none" stroke="black"/>
+<path d="M215,65h -3" fill="none" stroke="black"/>
+<path d="M215,61h -3" fill="none" stroke="black"/>
+<path d="M215,57h -3" fill="none" stroke="black"/>
+<path d="M217,53h -5" fill="none" stroke="black"/>
+<path d="M215,49h -3" fill="none" stroke="black"/>
+<path d="M215,45h -3" fill="none" stroke="black"/>
+<path d="M215,42h -3" fill="none" stroke="black"/>
+<path d="M215,38h -3" fill="none" stroke="black"/>
+<path d="M217,34h -5" fill="none" stroke="black"/>
+<path d="M217,34h -5" fill="none" stroke="black"/>
+<path d="M215,30h -3" fill="none" stroke="black"/>
+<path d="M215,26h -3" fill="none" stroke="black"/>
+<text x="208" y="190" fill="black" font-size="6" font-family="Helvetica">
+0
+</text>
+<text x="205" y="171" fill="black" font-size="6" font-family="Helvetica">
+10
+</text>
+<text x="205" y="151" fill="black" font-size="6" font-family="Helvetica">
+20
+</text>
+<text x="205" y="132" fill="black" font-size="6" font-family="Helvetica">
+30
+</text>
+<text x="205" y="113" fill="black" font-size="6" font-family="Helvetica">
+40
+</text>
+<text x="205" y="94" fill="black" font-size="6" font-family="Helvetica">
+50
+</text>
+<text x="205" y="75" fill="black" font-size="6" font-family="Helvetica">
+60
+</text>
+<text x="205" y="55" fill="black" font-size="6" font-family="Helvetica">
+70
+</text>
+<text x="205" y="36" fill="black" font-size="6" font-family="Helvetica">
+80
+</text>
+<rect x="333" y="17" width="36" height="33" fill="white"/>
+<path d="M333,50h 36" fill="none" stroke="black"/>
+<path d="M369,50v -33" fill="none" stroke="black"/>
+<path d="M369,17h -36" fill="none" stroke="black"/>
+<path d="M333,17v 33" fill="none" stroke="black"/>
+<text x="341" y="23" fill="black" font-size="6" font-family="Helvetica">
+hlayer2
+</text>
+<path d="M333,25h 36" fill="none" stroke="black"/>
+<text x="335" y="31" fill="black" font-size="4" font-family="Helvetica">
+Entries 
+</text>
+<text x="356" y="31" fill="black" font-size="4" font-family="Helvetica">
+ 2451
+</text>
+<text x="335" y="39" fill="black" font-size="4" font-family="Helvetica">
+Mean  
+</text>
+<text x="348" y="39" fill="black" font-size="4" font-family="Helvetica">
+ -0.06053
+</text>
+<text x="335" y="48" fill="black" font-size="4" font-family="Helvetica">
+RMS   
+</text>
+<text x="353" y="48" fill="black" font-size="4" font-family="Helvetica">
+  28.67
+</text>
+<text x="272" y="13" fill="black" font-size="8" font-family="Helvetica">
+layer2
+</text>
+<rect x="384" y="4" width="177" height="204" fill="white"/>
+<rect x="401" y="24" width="142" height="164" fill="white"/>
+<rect x="401" y="24" width="142" height="164" fill="none" stroke="black"/>
+<rect x="401" y="24" width="142" height="164" fill="white"/>
+<rect x="401" y="24" width="142" height="164" fill="none" stroke="black"/>
+<path d="M401,184v 4h 1v -7v 7v -17v 17v -7v 7v -10v 10v -7v 7v -7v 7v -4v 4v -4v 4v -17v 17v -10v 10v -10v 10v -10v 10v -10v 10h 1v -24v 24v -4v 4v -4v 4v -7v 7v -7v 7v -4v 4v -7v 7v -10v 10v -7v 7v -7v 3v -13v 17v -7v 7v -14v 14v -10h 1v 10v -7v 7v
+ -17v 13v -3v 7v -4v 4v -4v 4v -17v 17v -4v 4v -10v 10v -7v 7v -14v 14v -4v 4h 1v -14v 14v -7v 7v -10v 10v -4v 4v -10v 10v -7v 7v -7v 7v -10v 10v -7v 7v -10v 10v -14v 7h 1v 7v -7v 7v -4v 4v -7v 7v -14v 14v -10v 10v -14v 14v -10v 10v -4v 4v -4v 4v
+ -17v 17v -7v 7v -10v 3v -13v 16h 1v 4v -4v 4v -7v 7v -20v 13v -3v 10v -7v 7v -17v 17v -20v 13v -3v 10v -10v 10v -24v 24v -14v 14h 1v -10v 10v -7v 7v -14v 14v -7v 7v -4v 4v -4v 4v -10v 10v -7v 7v -17v 17v -7h 1v 7v -14v 14v -4v 4v -10v 10v -10v 10v
+ -7v 7v -10v 10v -10v 10v -7v 7v -10v 10v -4v 4v -4v 4v -17v 17v -20v 20v -10v 6h 1v 4v -17v 17v -4v 4v -10v 10v -17v 17v -24v 24v -17v 17v -4v 4v -17v 17h 1v -14v 14v -4v 4v -17v 17v -10v 10v -30v 30v -10v 3v -3v 3v -10v 17v -10v 10v -7v 7v -4v 4v
+ -17v 17h 1v -4v 4v -14v 14v -7v 3v -6v 10v -7v 7v -14v 14v -4v 4v -4v 4v -7v 7v -14v 14v -10v 10v -4v 4v -14h 1v 14v -24v 24v -7v 7v -24v 24v -14v 14v -17v 17v -10v 10v -24v 24v -7v 7v -4h 1v -3v 7v -4v 4v -20v 20v -4v 4v -17v 17v -10v 10v -24v 14v
+ -4v 14v -17v 17v -17v 17v -4v 4v -20v 20h 1v -7v 7v -4v 4v -20v 20v -14v 14v -14v 14v -7v 7v -4v 4v -14v 7h 1v 7v -7v 7v -7v 7v -17v 17v -4v 4v -17v 17v -10v 10v -14v 14v -14v 14v -4v 4v -14v 14v -14v 7h 1v 7v -14v 14v -4v 4v -7v 7v -14v 14v -20v
+ 20v -14v 14v -7v 7v -17v 17v -17v 17v -7v 7h 1v -14v 14v -27v 27v -4v 4v -7v 7v -17v 17v -4v 4v -10v 10v -7v 3v -10v 14v -7v 7v -4v 4h 1v -24v 24v -7v 7v -10v 10v -7v 7v -10v 10v -7v 3v -6v 10v -10v 10v -17v 17v -4v 4v -14v 14v -7v 7v -4h 1v 4v -17v
+ 17v -17v 17v -7v 7v -14v 14v -4v 4v -10v 10v -7v 7v -14v 14v -10v 10v -4v 4v -7v 7v -4v 4v -14v 14h 1v -4v 4v -10v 10v -7v 7v -14v 14v -17v 17v -30v 30v -10v 10v -14v 14v -4v 4h 1v -14v 14v -10v 10v -7v 7v -4v 4v -4v 4v -7v 7v -10v 10v -17v 17v -4v
+ 4v -17v 17v -10v 10v -10v 10v -30h 1v 30v -24v 24v -4v 4v -7v 7v -10v 10v -10v 10v -17v 17v -7v 7v -7v 7v -7v 7v -4v 4v -4v 4v -10v 10v -7v 7v -4v 4h 1v -10v 10v -20v 20v -7v 7v -7v 7v -10v 10v -17v 17v -4v 4v -20v 20v -20v 20v -17v 17v -4h 1v 4v
+ -7v 7v -7v 7v -14v 14v -7v 7v -10v 10v -20v 20h 1v -10v 10v -7v 7v -4v 4v -7v 7v -4v 4v -4v 4v -4v 4v -10v 10v -4v 4v -7v 7h 1v -10v 10v -17v 17v -4v 4v -4v 4v -27v 27v -7v 7v -10v 10v -7h 1v 7v -7v 7v -10v 10v -4v 4v -14v 14v -7v 7v -10v 10v -20v
+ 20v -10v 10v -4v 4v -17v 10v -3v 10v -20v 20v -10v 10v -20h 1v 20v -24v 24v -20v 20v -20v 20v -14v 14v -20v 20v -10v 10v -10v 10v -10v 10v -17v 17v -4v 4v -14v 14v -7v 7h 1v -20v 20v -7v 7v -17v 17v -4v 4v -4v 4v -10v 10v -10v 10v -14v 14v -4v 4v
+ -7v 7h 1v -4v 4v -7v 7v -7v 7v -17v 17v -20v 20v -7v 7v -7v 7h 1v -10v 10v -14v 14v -4v 4v -20v 20v -24v 24v -14v 14v -14v 7v -3v 10v -4v 4v -4v 4v -4v 4v -10v 10h 1v -10v 10v -4v 4v -7v 7v -17v 17v -14v 14v -17v 17v -20v 20v -7v 7v -7v 7v -14v 14h
+ 1v -4v 4v -10v 10v -7v 7v -7v 7v -27v 27v -7v 7v -7v 7v -4v 4v -10v 10v -10v 10v -10v 10v -10h 1v 10v -7v 7v -14v 14v -10v 10v -14v 14v -4v 4v -4v 4v -4v 4v -17v 13v -6v 10v -7v 7v -4v 4h 1v -7v 7v -20v 20v -7v 7v -14v 14v -7v 7v -4v 4v -17v 17v -4v
+ 4v -10v 6v -3v 7v -14v 14v -4v 4v -4v 4v -4h 1v 4v -17v 17v -7v 7v -7v 7v -7v 7v -10v 10v -10v 10v -20v 20v -4v 4v -4v 4v -24v 17v -3v 10v -20v 20v -17v 17h 1v -4v 4v -17v 17v -7v 7v -4v 4v -7v 7v -10v 10v -4v 4v -10v 10v -10v 10v -20v 20v -20v 13v
+ -3v 10v -7v 7h 1v -4v 4v -17v 17v -20v 20v -10v 10v -4v 4v -7v 7v -10v 10v -20v 20v -17v 17v -7v 7h 1v -10v 10v -20v 16v -23v 27v -7v 7v -10v 6v -6v 10v -7v 7v -20v 20v -4v 4v -7v 7v -7v 7v -24v 24v -10v 10v -20v 20h 1v -17v 17v -10v 10v -24v 24v
+ -14v 10v -13v 17v -7v 7v -7v 7v -4v 4v -14v 14v -7v 7v -7v 7h 1v -14v 14v -4v 4v -20v 20v -7v 7v -4v 4v -4v 4v -7v 7v -4v 4v -4v 4v -4v 4v -7v 7h 1v -17v 17v -4v 4v -7v 7v -7v 7v -14v 14v -10v 10v -4v 4v -4v 4v -7v 7v -10v 10v -17v 17v -4h 1v 4v -7v
+ 7v -10v 6v -3v 7v -14v 14v -7v 7v -20v 20v -14v 14v -4v 4v -17h 1v 17v -4v 4v -4v 4v -17v 17v -7v 7v -17v 17v -4v 4v -10v 10v -10v 10v -7v 7v -17v 17v -4v 4v -20v 20h 1v -17v 17v -4v 4v -7v 7v -7v 7v -7v 7v -4v 4v -10v 10v -7v 7h 1v -14v 14v -7v 7v
+ -20v 20v -10v 10v -4v 4v -7v 7v -14v 14v -7v 7v -4v 4v -14v 14v -10v 10v -10v 10h 1v -10v 10v -10v 10v -10v 10v -7v 7v -20v 20v -10v 10v -4v 4v -4v 4v -10v 10v -7h 1v 7v -10v 10v -10v 10v -10v 10v -10v 10v -17v 17v -7v 7v -7v 7v -27v 27h 1v -17v 17v
+ -7v 7v -17v 17v -4v 4v -7v 7v -17v 17v -10v 10v -7v 7v -7v 7h 1v -10v 3v -10v 17v -7v 7v -14v 14v -4v 4v -4v 4v -24v 24v -10v 10v -10v 10v -7v 7v -7v 7v -7v 7v -10v 10v -4v 4v -4v 4h 1v -4v 4v -10v 10v -10v 10v -17v 17v -4v 4v -4v 4v -17v 17v -7v 7v
+ -7v 7v -14v 14v -7v 7v -10v 6v -6v 10h 1v -20v 20v -7v 7v -10v 10v -4v 4v -10v 10v -4v 4v -7v 7v -17v 17v -4v 4v -7v 7v -4h 1v 4v -7v 7v -10v 10v -7v 7v -4v 4v -7v 7v -24v 17v -7v 14v -14v 14v -14v 14v -4v 4v -14v 14h 1v -10v 6v -16v 16v -6v 10v
+ -14v 14v -14v 14v -10v 10v -10v 10v -17v 17v -7v 7v -10v 10v -4v 4v -17v 17v -4v 4v -4h 1v 4v -4v 4v -14v 14v -7v 7v -20v 20v -7v 7v -4v 4v -14v 14v -20v 20v -20v 20v -10v 10v -4v 4v -7v 7h 1v -4v 4v -24v 24v -7v 7v -7v 7v -7v 7v -10v 10v -4v 4v
+ -14v 14v -14v 14v -7v 7v -17v 17v -10v 10v -4v 4v -7v 7v -20v 20h 1v -10v 10v -24v 24v -10v 10v -4v 4v -7v 7v -7v 7v -10v 10v -7v 7v -4v 4v -14v 14v -4v 4h 1v -4v 4v -24v 20v -10v 14v -24v 24v -17v 17v -4v 4v -7v 7v -17v 17v -4v 4v -4v 4v -4v 4h 1v
+ -4v 4v -20v 20v -10v 10v -7v 7v -7v 7v -17v 17v -4v 4v -10v 10v -4v 4v -17v 17v -10v 10v -14v 14v -7h 1v -17v 20v -3v 7v -17v 17v -4v 4v -17v 17v -14v 14v -7v 7v -4v 4v -4v 4v -4v 4v -17v 17v -10v 10v -7v 7h 1v -24v 17v -3v 10v -20v 13v -7v 14v -14v
+ 14v -17v 17v -14v 14v -10v 10v -4v 4v -20v 20v -4v 4v -4v 4v -4v 4h 1v -10v 10v -7v 7v -4v 4v -7v 7v -4v 4v -4v 4v -10v 10v -17v 17v -14v 14v -4v 4v -20v 20h 1v -10v 10v -7v 7v -4v 4v -10v 10v -20v 20v -14v 14v -10v 10v -7v 7v -4v 4v -14v 14v -4v 4h
+ 1v -7v 3v -10v 14v -7v 7v -7v 7v -7v 7v -10v 10v -4v 4v -20v 20v -4v 4v -7v 7v -7v 7v -14v 10v -6v 10h 1v -14v 14v -24v 24v -4v 4v -14v 14v -7v 7v -14v 14v -4v 4v -10h 1v 10v -4v 4v -10v 10v -14v 10v -13v 17v -10v 10v -14v 14v -4v 4h 1v -4v 4v -4v
+ 4v -10v 10v -7v 7v -7v 7v -17v 17v -10v 10v -10v 10v -17v 17v -10v 10h 1v -14v 14v -7v 7v -4v 4v -7v 7v -10v 10v -17v 17v -4v 4v -10v 10v -10v 10h 1v -7v 7v -4v 4v -20v 20v -10v 10v -7v 7v -10v 10v -7v 7v -4v 4v -10v 10v -14v 14v -10v 10v -4v 4h 1v
+ -4v 4v -7v 7v -14v 14v -10v 10v -10v 10v -7v 7v -30v 30v -7v 7v -10v 10v -10h 1v 10v -14v 14v -20v 10v -10v 20v -7v 7v -10v 10v -14v 14v -20v 20v -10v 10v -17v 17v -14v 14v -10v 10v -10v 6v -3h 1v 7v -10v 10v -4v 4v -4v 4v -7v 3v -3v 7v -14v 14v
+ -24v 24v -14v 14v -14v 7v -13v 20v -4v 4v -7v 7v -10v 10v -7v 7v -7h 1v 7v -10v 10v -10v 10v -24v 24v -10v 10v -27v 27v -17v 17v -4v 4v -7v 7v -20v 20v -4v 4v -10v 10h 1v -27v 23v -3v 7v -10v 10v -24v 20v -16v 20v -7v 7v -14v 14v -14v 14v -10v 10v
+ -14v 14v -10v 10v -10v 10v -14v 14h 1v -20v 20v -4v 4v -10v 10v -27v 27v -10v 10v -7v 7v -17v 17v -14v 14v -24v 24v -10v 10v -7v 7v -7v 7h 1v -17v 17v -7v 7v -7v 7v -17v 17v -4v 4v -7v 7v -4v 4v -7v 7v -17v 17v -4v 4v -4h 1v 4v -14v 14v -14v 14v
+ -10v 10v -7v 7v -7v 7v -14v 14v -14v 14v -17v 17v -14v 14v -17v 17v -7v 7v -10v 6v -6v 10v -14h 1v 14v -7v 7v -7v 7v -4v 4v -14v 14v -34v 34v -7v 7v -20v 20v -7v 7v -4v 4h 1v -10v 6v -13v 17v -10v 6v -23v 27v -14v 14v -14v 14v -7v 7v -10v 6v -6v 10v
+ -10v 10v -4h 1v 4v -7v 7v -4v 4v -17v 17v -4v 4v -4v 4v -4v 4v -10v 10v -4v 4v -7v 7v -20v 20v -10v 6v -3h 1v 7v -7v 3v -6v 10v -14v 14v -10v 10v -7v 3v -3v 7v -20v 20v -17v 17v -4v 4v -7v 7v -7v 7v -17v 17v -10h 1v -4v 14v -4v 4v -4v 4v -17v 17v
+ -14v 14v -20v 20v -14v 14v -7v 7v -7v 7v -17v 17v -4v 4v -14v 14v -24v 24v -7h 1v -3v 10v -4v 4v -7v 7v -4v 4v -14v 14v -10v 10v -4v 4v -7v 7v -4v 4v -4v 4v -24v 24v -7v 7h 1v -10v 3v -7v 10v -3v 7v -14v 14v -7v 3v -3v 7v -7v 7v -7v 7v -4v 4v -7v 7v
+ -7v 7v -14v 10v -3v 7v -10v 10v -14h 1v 14v -7v 7v -14v 14v -7v 7v -17v 17v -7v 7v -14v 14v -4h 1v -10v 14v -7v 7v -17v 17v -7v 7v -10v 10v -24v 24v -17v 17v -4v 4v -10v 10v -10v 10h 1v -17v 17v -24v 24v -14v 14v -14v 14v -7v 7v -17v 13v -3v 7v -4v
+ 4v -14v 14v -4v 4v -10v 10h 1v -10v 10v -17v 17v -4v 4v -10v 10v -10v 10v -10v 10v -10v 10v -4v 4v -10v 10v -20h 1v 20v -14v 14v -7v 7v -20v 20v -7v 3v -3v 7v -4v 4v -24v 24v -14v 14v -10v 10v -10v 10v -7v 7v -7v 7v -10v 10h 1v -10v 10v -7v 7v -4v
+ 4v -14v 14v -4v 4v -10v 10v -7v 7v -20v 20v -7v 7v -14v 14h 1v -10v 10v -4v 4v -14v 14v -20v 20v -4v 4v -4v 4v -17v 17v -4v 4v -17v 17v -14v 14v -14v 14h 1v -7v 7v -7v 7v -24v 24v -10v 10v -24v 24v -4v 4v -7v 7v -10v 10h 1v -7v 7v -14v 14v -4v 4v
+ -7v 7v -10v 3v -7v 14v -4v 4v -4v 4v -7v 7v -17v 17v -10v 10v -14v 14v -14v 14h 1v -7v 7v -4v 4v -4v 4v -7v 7v -17v 17v -37v 37v -4v 4v -7v 7v -14v 14v -4v 4h 1v -10v 10v -14v 14v -14v 14v -17v 17v -17v 17v -17v 17v -20v 20v -7v 7v -10v 10v -7v 7v
+ -20v 20v -20v 20v -14v 14v -10v 10h 1v -7v 7v -17v 17v -17v 17v -4v 4v -20v 20v -17v 17v -4v 4v -14v 7v -10v 17v -14v 14v -7v 7v -17v 17v -10v 10h 1v -4v 4v -4v 4v -20v 20v -7v 7v -17v 17v -10v 10v -7v 7v -14v 14v -20v 20v -14v 14h 1v -17v 17v -20v
+ 20v -27v 27v -17v 17v -7v 7v -14v 10v -20v 24v -14v 14v -4v 4v -10v 10v -7v 7h 1v -17v 17v -4v 4v -10v 10v -10v 10v -14v 14v -10v 10v -7v 7v -20v 20v -4v 4v -14v 14v -20v 20v -4v 4h 1v -17v 17v -4v 4v -4v 4v -7v 7v -4v 4v -4v 4v -10v 10v -10v 10v
+ -10v 10v -7v 7v -7v 7v -14v 14v -10h 1v 10v -7v 7v -7v 7v -7v 7v -24v 24v -4v 4v -7v 7v -14v 14v -10v 10v -10v 10v -24v 24h 1v -4v 4v -20v 20v -10v 10v -17v 17v -4v 4v -17v 17v -4v 4v -17v 17v -14v 14h 1v -4v 4v -7v 7v -4v 4v -20v 20v -17v 13v -6v
+ 10v -10v 6v -6v 10v -7v 7v -7v 7v -10v 10v -4h 1v 4v -4v 4v -4v 4v -14v 14v -4v 4v -4v 4v -14v 14v -10v 10v -7v 7v -20v 20v -7v 7v -7v 7v -7v 3v -10v 14h 1v -14v 14v -7v 3v -3v 3v -6v 10v -4v 4v -7v 7v -17v 13v -6v 10v -17v 17v -7v 7v -7v 7v -4v 4v
+ -7v 7v -7v 7v -4h 1v 4v -17v 17v -4v 4v -4v 4v -14v 14v -4v 4v -4v 4v -7v 7v -4v 4v -17v 13v -10v 14v -7v 7h 1v -14v 14v -20v 20v -10v 10v -14v 14v -4v 4v -10v 10v -14v 14v -10v 10v -4v 4v -24v 24v -10v 10v -7v 7h 1v -14v 14v -14v 14v -17v 17v -4v
+ 4v -4v 4v -14v 14v -27v 27v -14v 14v -14h 1v 10v -3v 7v -7v 7v -14v 10v -13v 17v -10v 10v -20v 20v -4v 4v -14v 14v -17v 17v -10v 10v -17v 17v -20v 20v -7v 7v -4h 1v -3v 7v -10v 10v -7v 3v -3v 3v -3v 7v -10v 10v -14v 14v -4v 4v -4v 4v -14v 14v -17v
+ 17v -7v 7v -10v 10v -14v 14v -7h 1v 7v -10v 10v -17v 17v -4v 4v -7v 7v -14v 14v -24v 24v -10v 10v -10v 10v -10v 10h 1v -4v 4v -4v 4v -4v 4v -7v 7v -17v 17v -7v 7v -14v 14v -4v 4v -10v 10v -10v 10v -14v 7h 1v 7v -7v 7v -14v 14v -7v 7v -14v 14v -14v
+ 14v -10v 10v -7v 7v -10v 10v -17h 1v 17v -20v 20v -4v 4v -10v 3v -7v 14v -14v 14v -10v 10v -7v 7v -14v 14v -7v 7v -10v 10v -14v 14v -7v 7h 1v -24v 24v -4v 4v -10v 10v -14v 14v -10v 10v -4v 4v -4v 4v -7v 7v -4v 4v -10v 10v -10v 10h 1v -10v 10v -7v 7v
+ -10v 10v -10v 10v -14v 14v -17v 17v -4v 4v -20v 20v -7v 7v -14v 14v -10v 10v -4v 4v -4v 4v -4v 4h 1v -4v 4v -4v 4v -17v 17v -10v 10v -4v 4v -4v 4v -4v 4v -10v 10v -20v 20v -10v 3v -10v 17v -10v 10v -7h 1v 7v -17v 17v -4v 4v -17v 17v -7v 7v -20v 20v
+ -4v 4v -14v 14v -7v 7v -4v 4v -17v 17v -14v 14v -7v 7v -7h 1v 7v -4v 4v -7v 7v -4v 4v -24v 24v -14v 14v -10v 10v -14v 14v -10v 10v -10v 10v -10v 10v -7v 7v -14v 14h 1v -20v 20v -4v 4v -7v 7v -4v 4v -4v 4v -24v 24v -4v 4v -10v 3v -7v 14v -14v 14h 1v
+ -4v 4v -17v 17v -14v 14v -7v 7v -4v 4v -7v 7v -4v 4v -10v 10v -20v 20v -4v 4v -10v 10v -10h 1v 10v -20v 20v -17v 17v -10v 3v -10v 17v -14v 14v -4v 4v -10v 10v -10v 10v -14v 14v -10v 10v -10v 10v -4h 1v 4v -7v 7v -4v 4v -7v 7v -4v 4v -17v 17v -14v
+ 14v -7v 3v -6v 10v -14v 14v -17h 1v 17v -14v 14v -7v 7v -14v 14v -10v 10v -4v 4v -7v 7v -20v 20v -7v 7v -7v 7v -4v 4h 1v -10v 10v -4v 4v -4v 4v -24v 20v -6v 10v -7v 7v -14v 14v -20v 20v -4v 4v -10h 1v 10v -17v 3v -3v 17v -7v 7v -14v 14v -7v 7v -7v
+ 7v -10v 10v -7v 7v -4v 4v -7v 7v -10v 10h 1v -7v 7v -4v 4v -20v 20v -10v 10v -10v 10v -10v 10v -7v 7v -10v 10v -10v 10v -7v 7v -10v 10v -4v 4h 1v -4v 4v -10v 6v -13v 17v -10v 6v -13v 17v -14v 14v -7v 7v -14v 14v -14v 14v -156v 146v -4v 14h 1v -4v 4v
+ -20v 20v -7v 7v -27v 27v -10v 10v -10v 3v -3v 10v -10v 10v -10v 6v -6v 10v -4v 4v -7v 7h 1v -17v 17v -7v 7v -14v 14v -7v 7v -10v 10v -4v 4v -10v 10v -17v 17v -17v 17v -4h 1v 4v -10v 10v -14v 14v -20v 16v -3v 7v -4v 4v -10v 10v -17v 17v -10v 10v -4v
+ 4v -24v 24v -17v 17v -14v 14v -17v 17v -10v 3h 1v 7v -7v 7v -10v 10v -4v 4v -10v 10v -10v 10v -4v 4v -7v 7v -10v 10v -4v 4v -17v 17v -10v 10h 1v -7v 7v -14v 14v -17v 17v -14v 14v -7v 7v -7v 7v -14v 14v -10v 10v -10v 10v -10v 10v -24v 24v -14v 14v
+ -7v 7v -4h 1v 4v -4v 4v -4v 4v -17v 17v -4v 4v -4v 4v -4v 4v -14v 14v -7v 7v -10v 10v -17v 17v -10v 10v -20v 13v -3h 1v 10v -14v 14v -14v 14v -10v 10v -14v 14v -17v 17v -14v 14v -7v 7v -4v 4v -37v 37v -4v 4v -4v 4v -7v 7v -10v 10h 1v -7v 7v -14v 14v
+ -10v 10v -10v 10v -14v 14v -10v 10v -4v 4v -14v 14v -7v 7v -17v 17v -7h 1v 7v -7v 7v -14v 14v -4v 4v -4v 4v -14v 14v -10v 10v -10v 10v -17v 17v -4h 1v -3v 7v -4v 4v -7v 7v -17v 17v -14v 14v -4v 4v -7v 3v -6v 6v -3v 7v -10v 10v -4v 4v -4v 4v -17v 17v
+ -7h 1v 7v -4v 4v -14v 14v -4v 4v -17v 17v -4v 4v -20v 20v -20v 20v -4v 4v -10v 10v -7v 7v -4v 4v -10v 10h 1v -4v 4v -7v 7v -14v 14v -20v 20v -4v 4v -14v 7v -13v 20v -4v 4v -7v 7v -7v 7v -14v 14v -14v 14h 1v -17v 13v -10v 14v -4v 4v -7v 7v -24v 17v
+ -13v 20v -4v 4v -4v 4v -10v 10v -14v 14v -7v 7v -4v 4v -17v 17v -7v 7h 1v -10v 10v -10v 10v -20v 20v -4v 4v -10v 10v -7v 7v -4v 4v -17v 17v -4v 4v -14" fill="none" stroke="#000099"/>
+<path d="M401,188h 142" fill="none" stroke="black"/>
+<text x="527" y="201" fill="black" font-size="6" font-family="Helvetica">
+z [cm]
+</text>
+<path d="M401,183v 5" fill="none" stroke="black"/>
+<path d="M404,185v 3" fill="none" stroke="black"/>
+<path d="M407,185v 3" fill="none" stroke="black"/>
+<path d="M410,185v 3" fill="none" stroke="black"/>
+<path d="M413,185v 3" fill="none" stroke="black"/>
+<path d="M416,183v 5" fill="none" stroke="black"/>
+<path d="M418,185v 3" fill="none" stroke="black"/>
+<path d="M421,185v 3" fill="none" stroke="black"/>
+<path d="M424,185v 3" fill="none" stroke="black"/>
+<path d="M427,185v 3" fill="none" stroke="black"/>
+<path d="M430,183v 5" fill="none" stroke="black"/>
+<path d="M433,185v 3" fill="none" stroke="black"/>
+<path d="M435,185v 3" fill="none" stroke="black"/>
+<path d="M438,185v 3" fill="none" stroke="black"/>
+<path d="M441,185v 3" fill="none" stroke="black"/>
+<path d="M444,183v 5" fill="none" stroke="black"/>
+<path d="M447,185v 3" fill="none" stroke="black"/>
+<path d="M450,185v 3" fill="none" stroke="black"/>
+<path d="M453,185v 3" fill="none" stroke="black"/>
+<path d="M455,185v 3" fill="none" stroke="black"/>
+<path d="M458,183v 5" fill="none" stroke="black"/>
+<path d="M461,185v 3" fill="none" stroke="black"/>
+<path d="M464,185v 3" fill="none" stroke="black"/>
+<path d="M467,185v 3" fill="none" stroke="black"/>
+<path d="M470,185v 3" fill="none" stroke="black"/>
+<path d="M472,183v 5" fill="none" stroke="black"/>
+<path d="M475,185v 3" fill="none" stroke="black"/>
+<path d="M478,185v 3" fill="none" stroke="black"/>
+<path d="M481,185v 3" fill="none" stroke="black"/>
+<path d="M484,185v 3" fill="none" stroke="black"/>
+<path d="M487,183v 5" fill="none" stroke="black"/>
+<path d="M489,185v 3" fill="none" stroke="black"/>
+<path d="M492,185v 3" fill="none" stroke="black"/>
+<path d="M495,185v 3" fill="none" stroke="black"/>
+<path d="M498,185v 3" fill="none" stroke="black"/>
+<path d="M501,183v 5" fill="none" stroke="black"/>
+<path d="M504,185v 3" fill="none" stroke="black"/>
+<path d="M507,185v 3" fill="none" stroke="black"/>
+<path d="M509,185v 3" fill="none" stroke="black"/>
+<path d="M512,185v 3" fill="none" stroke="black"/>
+<path d="M515,183v 5" fill="none" stroke="black"/>
+<path d="M518,185v 3" fill="none" stroke="black"/>
+<path d="M521,185v 3" fill="none" stroke="black"/>
+<path d="M524,185v 3" fill="none" stroke="black"/>
+<path d="M526,185v 3" fill="none" stroke="black"/>
+<path d="M529,183v 5" fill="none" stroke="black"/>
+<path d="M532,185v 3" fill="none" stroke="black"/>
+<path d="M535,185v 3" fill="none" stroke="black"/>
+<path d="M538,185v 3" fill="none" stroke="black"/>
+<path d="M541,185v 3" fill="none" stroke="black"/>
+<path d="M543,183v 5" fill="none" stroke="black"/>
+<text x="397" y="194" fill="black" font-size="6" font-family="Helvetica">
+-50
+</text>
+<text x="411" y="194" fill="black" font-size="6" font-family="Helvetica">
+-40
+</text>
+<text x="425" y="194" fill="black" font-size="6" font-family="Helvetica">
+-30
+</text>
+<text x="439" y="194" fill="black" font-size="6" font-family="Helvetica">
+-20
+</text>
+<text x="454" y="194" fill="black" font-size="6" font-family="Helvetica">
+-10
+</text>
+<text x="470" y="194" fill="black" font-size="6" font-family="Helvetica">
+0
+</text>
+<text x="483" y="194" fill="black" font-size="6" font-family="Helvetica">
+10
+</text>
+<text x="497" y="194" fill="black" font-size="6" font-family="Helvetica">
+20
+</text>
+<text x="512" y="194" fill="black" font-size="6" font-family="Helvetica">
+30
+</text>
+<text x="525" y="194" fill="black" font-size="6" font-family="Helvetica">
+40
+</text>
+<text x="540" y="194" fill="black" font-size="6" font-family="Helvetica">
+50
+</text>
+<path d="M401,188v -164" fill="none" stroke="black"/>
+<g transform="rotate(-90,393,43)">
+<text x="393" y="43" fill="black" font-size="6" font-family="Helvetica">
+ counts
+</text>
+</g>
+<path d="M406,188h -5" fill="none" stroke="black"/>
+<path d="M404,184h -3" fill="none" stroke="black"/>
+<path d="M404,181h -3" fill="none" stroke="black"/>
+<path d="M404,178h -3" fill="none" stroke="black"/>
+<path d="M404,174h -3" fill="none" stroke="black"/>
+<path d="M406,171h -5" fill="none" stroke="black"/>
+<path d="M404,168h -3" fill="none" stroke="black"/>
+<path d="M404,164h -3" fill="none" stroke="black"/>
+<path d="M404,161h -3" fill="none" stroke="black"/>
+<path d="M404,158h -3" fill="none" stroke="black"/>
+<path d="M406,154h -5" fill="none" stroke="black"/>
+<path d="M404,151h -3" fill="none" stroke="black"/>
+<path d="M404,148h -3" fill="none" stroke="black"/>
+<path d="M404,145h -3" fill="none" stroke="black"/>
+<path d="M404,141h -3" fill="none" stroke="black"/>
+<path d="M406,138h -5" fill="none" stroke="black"/>
+<path d="M404,135h -3" fill="none" stroke="black"/>
+<path d="M404,131h -3" fill="none" stroke="black"/>
+<path d="M404,128h -3" fill="none" stroke="black"/>
+<path d="M404,125h -3" fill="none" stroke="black"/>
+<path d="M406,121h -5" fill="none" stroke="black"/>
+<path d="M404,118h -3" fill="none" stroke="black"/>
+<path d="M404,115h -3" fill="none" stroke="black"/>
+<path d="M404,111h -3" fill="none" stroke="black"/>
+<path d="M404,108h -3" fill="none" stroke="black"/>
+<path d="M406,105h -5" fill="none" stroke="black"/>
+<path d="M404,102h -3" fill="none" stroke="black"/>
+<path d="M404,98h -3" fill="none" stroke="black"/>
+<path d="M404,95h -3" fill="none" stroke="black"/>
+<path d="M404,92h -3" fill="none" stroke="black"/>
+<path d="M406,88h -5" fill="none" stroke="black"/>
+<path d="M404,85h -3" fill="none" stroke="black"/>
+<path d="M404,82h -3" fill="none" stroke="black"/>
+<path d="M404,78h -3" fill="none" stroke="black"/>
+<path d="M404,75h -3" fill="none" stroke="black"/>
+<path d="M406,72h -5" fill="none" stroke="black"/>
+<path d="M404,68h -3" fill="none" stroke="black"/>
+<path d="M404,65h -3" fill="none" stroke="black"/>
+<path d="M404,62h -3" fill="none" stroke="black"/>
+<path d="M404,58h -3" fill="none" stroke="black"/>
+<path d="M406,55h -5" fill="none" stroke="black"/>
+<path d="M404,52h -3" fill="none" stroke="black"/>
+<path d="M404,49h -3" fill="none" stroke="black"/>
+<path d="M404,45h -3" fill="none" stroke="black"/>
+<path d="M404,42h -3" fill="none" stroke="black"/>
+<path d="M406,39h -5" fill="none" stroke="black"/>
+<path d="M406,39h -5" fill="none" stroke="black"/>
+<path d="M404,35h -3" fill="none" stroke="black"/>
+<path d="M404,32h -3" fill="none" stroke="black"/>
+<path d="M404,29h -3" fill="none" stroke="black"/>
+<path d="M404,25h -3" fill="none" stroke="black"/>
+<text x="397" y="190" fill="black" font-size="6" font-family="Helvetica">
+0
+</text>
+<text x="397" y="173" fill="black" font-size="6" font-family="Helvetica">
+5
+</text>
+<text x="394" y="157" fill="black" font-size="6" font-family="Helvetica">
+10
+</text>
+<text x="394" y="140" fill="black" font-size="6" font-family="Helvetica">
+15
+</text>
+<text x="394" y="124" fill="black" font-size="6" font-family="Helvetica">
+20
+</text>
+<text x="394" y="107" fill="black" font-size="6" font-family="Helvetica">
+25
+</text>
+<text x="394" y="91" fill="black" font-size="6" font-family="Helvetica">
+30
+</text>
+<text x="394" y="74" fill="black" font-size="6" font-family="Helvetica">
+35
+</text>
+<text x="394" y="57" fill="black" font-size="6" font-family="Helvetica">
+40
+</text>
+<text x="394" y="41" fill="black" font-size="6" font-family="Helvetica">
+45
+</text>
+<rect x="522" y="17" width="36" height="33" fill="white"/>
+<path d="M522,50h 36" fill="none" stroke="black"/>
+<path d="M558,50v -33" fill="none" stroke="black"/>
+<path d="M558,17h -36" fill="none" stroke="black"/>
+<path d="M522,17v 33" fill="none" stroke="black"/>
+<text x="530" y="23" fill="black" font-size="6" font-family="Helvetica">
+hlayer3
+</text>
+<path d="M522,25h 36" fill="none" stroke="black"/>
+<text x="524" y="31" fill="black" font-size="5" font-family="Helvetica">
+Entries 
+</text>
+<text x="543" y="31" fill="black" font-size="5" font-family="Helvetica">
+ 2469
+</text>
+<text x="524" y="39" fill="black" font-size="5" font-family="Helvetica">
+Mean  
+</text>
+<text x="540" y="39" fill="black" font-size="5" font-family="Helvetica">
+ 0.8011
+</text>
+<text x="524" y="48" fill="black" font-size="5" font-family="Helvetica">
+RMS   
+</text>
+<text x="540" y="48" fill="black" font-size="5" font-family="Helvetica">
+  29.12
+</text>
+<text x="461" y="13" fill="black" font-size="8" font-family="Helvetica">
+layer3
+</text>
+<rect x="6" y="217" width="177" height="204" fill="white"/>
+<rect x="23" y="237" width="143" height="163" fill="white"/>
+<rect x="23" y="237" width="143" height="163" fill="none" stroke="black"/>
+<rect x="23" y="237" width="143" height="163" fill="white"/>
+<rect x="23" y="237" width="143" height="163" fill="none" stroke="black"/>
+<path d="M23,376h 2v -5h 1v 3h 2v -8h 1v 17h 2v -19h 1v -5h 1v 19h 2v -17h 1v 5h 2v 10h 1v -17h 1v 19h 2v -2h 4v -19h 2v 24h 1v -3h 1v 5h 2v -29h 1v 15h 2v 9h 1v -12h 2v 8h 1v 4h 1v -14h 2v 22h 1v -22h 2v 12h 1v 2h 1v -2h 2v -2h 1v -10h 2v 29h 1v
+ -29h 2v 12h 2v 10h 2v 14h 10v -90h 1v -39h 3v 22h 1v -48h 2v 31h 1v 5h 2v 10h 1v 102h 2v 7h 8v -7h 2v 5h 1v -29h 1v 14h 2v -12h 1v 5h 2v 2h 1v -4h 1v -8h 2v 8h 1v -5h 2v 17h 1v -10h 2v -7h 1v 9h 1v -19h 2v 5h 1v -7h 2v 2h 1v -7h 2v 19h 1v -5h 1v 8h
+ 2v -8h 1v 20h 2v -12h 2v -27h 2v 27h 1v 7h 2v -15h 1v -2h 2v 24h 1v -10h 1v -7h 2v 5h 1v -22h 2v 24h 1v -7h 2" fill="none" stroke="#000099"/>
+<rect x="144" y="230" width="36" height="32" fill="white"/>
+<path d="M144,262h 36" fill="none" stroke="black"/>
+<path d="M180,262v -32" fill="none" stroke="black"/>
+<path d="M180,230h -36" fill="none" stroke="black"/>
+<path d="M144,230v 32" fill="none" stroke="black"/>
+<text x="152" y="236" fill="black" font-size="6" font-family="Helvetica">
+hresid1
+</text>
+<path d="M144,238h 36" fill="none" stroke="black"/>
+<text x="146" y="244" fill="black" font-size="4" font-family="Helvetica">
+Entries 
+</text>
+<text x="161" y="244" fill="black" font-size="4" font-family="Helvetica">
+ 621442
+</text>
+<text x="146" y="252" fill="black" font-size="4" font-family="Helvetica">
+Mean  
+</text>
+<text x="158" y="252" fill="black" font-size="4" font-family="Helvetica">
+ 0.000771
+</text>
+<text x="146" y="260" fill="black" font-size="4" font-family="Helvetica">
+RMS   
+</text>
+<text x="160" y="260" fill="black" font-size="4" font-family="Helvetica">
+ 0.05527
+</text>
+<path d="M23,400h 143" fill="none" stroke="black"/>
+<text x="152" y="413" fill="black" font-size="6" font-family="Helvetica">
+ [cm]
+</text>
+<text x="145" y="415" fill="black" font-size="4" font-family="Helvetica">
+true
+</text>
+<text x="140" y="413" fill="black" font-size="6" font-family="Helvetica">
+-z
+</text>
+<text x="136" y="415" fill="black" font-size="4" font-family="Helvetica">
+hit
+</text>
+<text x="131" y="413" fill="black" font-size="6" font-family="Helvetica">
+ z
+</text>
+<path d="M23,395v 5" fill="none" stroke="black"/>
+<path d="M27,398v 2" fill="none" stroke="black"/>
+<path d="M31,398v 2" fill="none" stroke="black"/>
+<path d="M34,398v 2" fill="none" stroke="black"/>
+<path d="M38,395v 5" fill="none" stroke="black"/>
+<path d="M41,398v 2" fill="none" stroke="black"/>
+<path d="M45,398v 2" fill="none" stroke="black"/>
+<path d="M48,398v 2" fill="none" stroke="black"/>
+<path d="M52,395v 5" fill="none" stroke="black"/>
+<path d="M55,398v 2" fill="none" stroke="black"/>
+<path d="M59,398v 2" fill="none" stroke="black"/>
+<path d="M63,398v 2" fill="none" stroke="black"/>
+<path d="M66,395v 5" fill="none" stroke="black"/>
+<path d="M70,398v 2" fill="none" stroke="black"/>
+<path d="M73,398v 2" fill="none" stroke="black"/>
+<path d="M77,398v 2" fill="none" stroke="black"/>
+<path d="M80,395v 5" fill="none" stroke="black"/>
+<path d="M84,398v 2" fill="none" stroke="black"/>
+<path d="M87,398v 2" fill="none" stroke="black"/>
+<path d="M91,398v 2" fill="none" stroke="black"/>
+<path d="M94,395v 5" fill="none" stroke="black"/>
+<path d="M98,398v 2" fill="none" stroke="black"/>
+<path d="M102,398v 2" fill="none" stroke="black"/>
+<path d="M105,398v 2" fill="none" stroke="black"/>
+<path d="M109,395v 5" fill="none" stroke="black"/>
+<path d="M112,398v 2" fill="none" stroke="black"/>
+<path d="M116,398v 2" fill="none" stroke="black"/>
+<path d="M119,398v 2" fill="none" stroke="black"/>
+<path d="M123,395v 5" fill="none" stroke="black"/>
+<path d="M126,398v 2" fill="none" stroke="black"/>
+<path d="M130,398v 2" fill="none" stroke="black"/>
+<path d="M134,398v 2" fill="none" stroke="black"/>
+<path d="M137,395v 5" fill="none" stroke="black"/>
+<path d="M141,398v 2" fill="none" stroke="black"/>
+<path d="M144,398v 2" fill="none" stroke="black"/>
+<path d="M148,398v 2" fill="none" stroke="black"/>
+<path d="M151,395v 5" fill="none" stroke="black"/>
+<path d="M155,398v 2" fill="none" stroke="black"/>
+<path d="M158,398v 2" fill="none" stroke="black"/>
+<path d="M162,398v 2" fill="none" stroke="black"/>
+<path d="M166,395v 5" fill="none" stroke="black"/>
+<path d="M23,395v 5" fill="none" stroke="black"/>
+<text x="18" y="407" fill="black" font-size="6" font-family="Helvetica">
+-0.1
+</text>
+<text x="31" y="407" fill="black" font-size="6" font-family="Helvetica">
+-0.08
+</text>
+<text x="45" y="407" fill="black" font-size="6" font-family="Helvetica">
+-0.06
+</text>
+<text x="59" y="407" fill="black" font-size="6" font-family="Helvetica">
+-0.04
+</text>
+<text x="73" y="407" fill="black" font-size="6" font-family="Helvetica">
+-0.02
+</text>
+<text x="93" y="407" fill="black" font-size="6" font-family="Helvetica">
+0
+</text>
+<text x="102" y="407" fill="black" font-size="6" font-family="Helvetica">
+0.02
+</text>
+<text x="117" y="407" fill="black" font-size="6" font-family="Helvetica">
+0.04
+</text>
+<text x="131" y="407" fill="black" font-size="6" font-family="Helvetica">
+0.06
+</text>
+<text x="145" y="407" fill="black" font-size="6" font-family="Helvetica">
+0.08
+</text>
+<text x="161" y="407" fill="black" font-size="6" font-family="Helvetica">
+0.1
+</text>
+<path d="M23,400v -163" fill="none" stroke="black"/>
+<g transform="rotate(-90,15,256)">
+<text x="15" y="256" fill="black" font-size="6" font-family="Helvetica">
+ events
+</text>
+</g>
+<path d="M28,400h -5" fill="none" stroke="black"/>
+<path d="M26,395h -3" fill="none" stroke="black"/>
+<path d="M26,391h -3" fill="none" stroke="black"/>
+<path d="M26,386h -3" fill="none" stroke="black"/>
+<path d="M26,381h -3" fill="none" stroke="black"/>
+<path d="M28,376h -5" fill="none" stroke="black"/>
+<path d="M26,371h -3" fill="none" stroke="black"/>
+<path d="M26,366h -3" fill="none" stroke="black"/>
+<path d="M26,361h -3" fill="none" stroke="black"/>
+<path d="M26,357h -3" fill="none" stroke="black"/>
+<path d="M28,352h -5" fill="none" stroke="black"/>
+<path d="M26,347h -3" fill="none" stroke="black"/>
+<path d="M26,342h -3" fill="none" stroke="black"/>
+<path d="M26,337h -3" fill="none" stroke="black"/>
+<path d="M26,332h -3" fill="none" stroke="black"/>
+<path d="M28,327h -5" fill="none" stroke="black"/>
+<path d="M26,323h -3" fill="none" stroke="black"/>
+<path d="M26,318h -3" fill="none" stroke="black"/>
+<path d="M26,313h -3" fill="none" stroke="black"/>
+<path d="M26,308h -3" fill="none" stroke="black"/>
+<path d="M28,303h -5" fill="none" stroke="black"/>
+<path d="M26,298h -3" fill="none" stroke="black"/>
+<path d="M26,293h -3" fill="none" stroke="black"/>
+<path d="M26,288h -3" fill="none" stroke="black"/>
+<path d="M26,284h -3" fill="none" stroke="black"/>
+<path d="M28,279h -5" fill="none" stroke="black"/>
+<path d="M26,274h -3" fill="none" stroke="black"/>
+<path d="M26,269h -3" fill="none" stroke="black"/>
+<path d="M26,264h -3" fill="none" stroke="black"/>
+<path d="M26,259h -3" fill="none" stroke="black"/>
+<path d="M28,254h -5" fill="none" stroke="black"/>
+<path d="M28,254h -5" fill="none" stroke="black"/>
+<path d="M26,250h -3" fill="none" stroke="black"/>
+<path d="M26,245h -3" fill="none" stroke="black"/>
+<path d="M26,240h -3" fill="none" stroke="black"/>
+<text x="19" y="403" fill="black" font-size="6" font-family="Helvetica">
+0
+</text>
+<text x="16" y="378" fill="black" font-size="6" font-family="Helvetica">
+10
+</text>
+<text x="16" y="354" fill="black" font-size="6" font-family="Helvetica">
+20
+</text>
+<text x="16" y="330" fill="black" font-size="6" font-family="Helvetica">
+30
+</text>
+<text x="16" y="305" fill="black" font-size="6" font-family="Helvetica">
+40
+</text>
+<text x="16" y="281" fill="black" font-size="6" font-family="Helvetica">
+50
+</text>
+<text x="16" y="257" fill="black" font-size="6" font-family="Helvetica">
+60
+</text>
+<rect x="144" y="230" width="36" height="32" fill="white"/>
+<path d="M144,262h 36" fill="none" stroke="black"/>
+<path d="M180,262v -32" fill="none" stroke="black"/>
+<path d="M180,230h -36" fill="none" stroke="black"/>
+<path d="M144,230v 32" fill="none" stroke="black"/>
+<text x="152" y="236" fill="black" font-size="6" font-family="Helvetica">
+hresid1
+</text>
+<path d="M144,238h 36" fill="none" stroke="black"/>
+<text x="146" y="244" fill="black" font-size="4" font-family="Helvetica">
+Entries 
+</text>
+<text x="161" y="244" fill="black" font-size="4" font-family="Helvetica">
+ 621442
+</text>
+<text x="146" y="252" fill="black" font-size="4" font-family="Helvetica">
+Mean  
+</text>
+<text x="158" y="252" fill="black" font-size="4" font-family="Helvetica">
+ 0.000771
+</text>
+<text x="146" y="260" fill="black" font-size="4" font-family="Helvetica">
+RMS   
+</text>
+<text x="160" y="260" fill="black" font-size="4" font-family="Helvetica">
+ 0.05527
+</text>
+<text x="84" y="226" fill="black" font-size="8" font-family="Helvetica">
+resid1
+</text>
+<rect x="195" y="217" width="177" height="204" fill="white"/>
+<rect x="212" y="237" width="143" height="163" fill="white"/>
+<rect x="212" y="237" width="143" height="163" fill="none" stroke="black"/>
+<rect x="212" y="237" width="143" height="163" fill="white"/>
+<rect x="212" y="237" width="143" height="163" fill="none" stroke="black"/>
+<path d="M212,373h 3v 12h 2v -25h 1v -5h 2v 15h 1v 13h 1v -20h 2v 10h 1v -18h 2v 10h 1v 10h 1v -10h 2v -2h 1v 10h 2v -15h 1v 20h 2v -13h 1v 10h 1v -5h 2v -12h 1v 22h 2v -5h 1v -12h 2v 10h 1v -3h 1v -5h 2v 5h 1v 10h 2v -10h 4v 15h 1v -10h 2v 5h 1v
+ -25h 2v 28h 1v 5h 1v 12h 10v -7h 2v -96h 1v -15h 2v -20h 1v -15h 1v -2h 2v 47h 1v -15h 2v 30h 1v 88h 2v 5h 8v -2h 2v -8h 1v -15h 1v -10h 2v 3h 1v 17h 3v 8h 1v -20h 2v -8h 1v 13h 2v -20h 1v 5h 2v 15h 1v -3h 1v -10h 2v 10h 1v -7h 3v -3h 2v 3h 1v 2h 1v
+ -5h 2v 8h 1v 2h 2v 3h 1v -13h 1v -5h 2v 15h 1v 8h 2v -10h 1v 2h 3v -7h 1v 2h 2v 5h 1v 8h 2v -18h 1v -12h 2" fill="none" stroke="#000099"/>
+<rect x="333" y="230" width="36" height="32" fill="white"/>
+<path d="M333,262h 36" fill="none" stroke="black"/>
+<path d="M369,262v -32" fill="none" stroke="black"/>
+<path d="M369,230h -36" fill="none" stroke="black"/>
+<path d="M333,230v 32" fill="none" stroke="black"/>
+<text x="341" y="236" fill="black" font-size="6" font-family="Helvetica">
+hresid2
+</text>
+<path d="M333,238h 36" fill="none" stroke="black"/>
+<text x="335" y="243" fill="black" font-size="4" font-family="Helvetica">
+Entries 
+</text>
+<text x="352" y="243" fill="black" font-size="4" font-family="Helvetica">
+ 620820
+</text>
+<text x="335" y="251" fill="black" font-size="4" font-family="Helvetica">
+Mean  
+</text>
+<text x="348" y="251" fill="black" font-size="4" font-family="Helvetica">
+ -0.001102
+</text>
+<text x="335" y="260" fill="black" font-size="4" font-family="Helvetica">
+RMS   
+</text>
+<text x="351" y="260" fill="black" font-size="4" font-family="Helvetica">
+ 0.05565
+</text>
+<path d="M212,400h 143" fill="none" stroke="black"/>
+<text x="341" y="413" fill="black" font-size="6" font-family="Helvetica">
+ [cm]
+</text>
+<text x="334" y="415" fill="black" font-size="4" font-family="Helvetica">
+true
+</text>
+<text x="329" y="413" fill="black" font-size="6" font-family="Helvetica">
+-z
+</text>
+<text x="325" y="415" fill="black" font-size="4" font-family="Helvetica">
+hit
+</text>
+<text x="320" y="413" fill="black" font-size="6" font-family="Helvetica">
+ z
+</text>
+<path d="M212,395v 5" fill="none" stroke="black"/>
+<path d="M216,398v 2" fill="none" stroke="black"/>
+<path d="M220,398v 2" fill="none" stroke="black"/>
+<path d="M223,398v 2" fill="none" stroke="black"/>
+<path d="M227,395v 5" fill="none" stroke="black"/>
+<path d="M230,398v 2" fill="none" stroke="black"/>
+<path d="M234,398v 2" fill="none" stroke="black"/>
+<path d="M237,398v 2" fill="none" stroke="black"/>
+<path d="M241,395v 5" fill="none" stroke="black"/>
+<path d="M244,398v 2" fill="none" stroke="black"/>
+<path d="M248,398v 2" fill="none" stroke="black"/>
+<path d="M251,398v 2" fill="none" stroke="black"/>
+<path d="M255,395v 5" fill="none" stroke="black"/>
+<path d="M259,398v 2" fill="none" stroke="black"/>
+<path d="M262,398v 2" fill="none" stroke="black"/>
+<path d="M266,398v 2" fill="none" stroke="black"/>
+<path d="M269,395v 5" fill="none" stroke="black"/>
+<path d="M273,398v 2" fill="none" stroke="black"/>
+<path d="M276,398v 2" fill="none" stroke="black"/>
+<path d="M280,398v 2" fill="none" stroke="black"/>
+<path d="M283,395v 5" fill="none" stroke="black"/>
+<path d="M287,398v 2" fill="none" stroke="black"/>
+<path d="M291,398v 2" fill="none" stroke="black"/>
+<path d="M294,398v 2" fill="none" stroke="black"/>
+<path d="M298,395v 5" fill="none" stroke="black"/>
+<path d="M301,398v 2" fill="none" stroke="black"/>
+<path d="M305,398v 2" fill="none" stroke="black"/>
+<path d="M308,398v 2" fill="none" stroke="black"/>
+<path d="M312,395v 5" fill="none" stroke="black"/>
+<path d="M315,398v 2" fill="none" stroke="black"/>
+<path d="M319,398v 2" fill="none" stroke="black"/>
+<path d="M323,398v 2" fill="none" stroke="black"/>
+<path d="M326,395v 5" fill="none" stroke="black"/>
+<path d="M330,398v 2" fill="none" stroke="black"/>
+<path d="M333,398v 2" fill="none" stroke="black"/>
+<path d="M337,398v 2" fill="none" stroke="black"/>
+<path d="M340,395v 5" fill="none" stroke="black"/>
+<path d="M344,398v 2" fill="none" stroke="black"/>
+<path d="M347,398v 2" fill="none" stroke="black"/>
+<path d="M351,398v 2" fill="none" stroke="black"/>
+<path d="M355,395v 5" fill="none" stroke="black"/>
+<path d="M212,395v 5" fill="none" stroke="black"/>
+<text x="207" y="407" fill="black" font-size="6" font-family="Helvetica">
+-0.1
+</text>
+<text x="220" y="407" fill="black" font-size="6" font-family="Helvetica">
+-0.08
+</text>
+<text x="233" y="407" fill="black" font-size="6" font-family="Helvetica">
+-0.06
+</text>
+<text x="248" y="407" fill="black" font-size="6" font-family="Helvetica">
+-0.04
+</text>
+<text x="262" y="407" fill="black" font-size="6" font-family="Helvetica">
+-0.02
+</text>
+<text x="281" y="407" fill="black" font-size="6" font-family="Helvetica">
+0
+</text>
+<text x="291" y="407" fill="black" font-size="6" font-family="Helvetica">
+0.02
+</text>
+<text x="306" y="407" fill="black" font-size="6" font-family="Helvetica">
+0.04
+</text>
+<text x="320" y="407" fill="black" font-size="6" font-family="Helvetica">
+0.06
+</text>
+<text x="334" y="407" fill="black" font-size="6" font-family="Helvetica">
+0.08
+</text>
+<text x="350" y="407" fill="black" font-size="6" font-family="Helvetica">
+0.1
+</text>
+<path d="M212,400v -163" fill="none" stroke="black"/>
+<g transform="rotate(-90,204,256)">
+<text x="204" y="256" fill="black" font-size="6" font-family="Helvetica">
+ events
+</text>
+</g>
+<path d="M217,400h -5" fill="none" stroke="black"/>
+<path d="M215,395h -3" fill="none" stroke="black"/>
+<path d="M215,390h -3" fill="none" stroke="black"/>
+<path d="M215,385h -3" fill="none" stroke="black"/>
+<path d="M215,380h -3" fill="none" stroke="black"/>
+<path d="M217,375h -5" fill="none" stroke="black"/>
+<path d="M215,370h -3" fill="none" stroke="black"/>
+<path d="M215,365h -3" fill="none" stroke="black"/>
+<path d="M215,360h -3" fill="none" stroke="black"/>
+<path d="M215,355h -3" fill="none" stroke="black"/>
+<path d="M217,350h -5" fill="none" stroke="black"/>
+<path d="M215,345h -3" fill="none" stroke="black"/>
+<path d="M215,340h -3" fill="none" stroke="black"/>
+<path d="M215,335h -3" fill="none" stroke="black"/>
+<path d="M215,330h -3" fill="none" stroke="black"/>
+<path d="M217,325h -5" fill="none" stroke="black"/>
+<path d="M215,320h -3" fill="none" stroke="black"/>
+<path d="M215,315h -3" fill="none" stroke="black"/>
+<path d="M215,310h -3" fill="none" stroke="black"/>
+<path d="M215,305h -3" fill="none" stroke="black"/>
+<path d="M217,300h -5" fill="none" stroke="black"/>
+<path d="M215,295h -3" fill="none" stroke="black"/>
+<path d="M215,290h -3" fill="none" stroke="black"/>
+<path d="M215,285h -3" fill="none" stroke="black"/>
+<path d="M215,280h -3" fill="none" stroke="black"/>
+<path d="M217,275h -5" fill="none" stroke="black"/>
+<path d="M215,270h -3" fill="none" stroke="black"/>
+<path d="M215,265h -3" fill="none" stroke="black"/>
+<path d="M215,260h -3" fill="none" stroke="black"/>
+<path d="M215,255h -3" fill="none" stroke="black"/>
+<path d="M217,250h -5" fill="none" stroke="black"/>
+<path d="M217,250h -5" fill="none" stroke="black"/>
+<path d="M215,245h -3" fill="none" stroke="black"/>
+<path d="M215,240h -3" fill="none" stroke="black"/>
+<text x="208" y="403" fill="black" font-size="6" font-family="Helvetica">
+0
+</text>
+<text x="205" y="378" fill="black" font-size="6" font-family="Helvetica">
+10
+</text>
+<text x="205" y="352" fill="black" font-size="6" font-family="Helvetica">
+20
+</text>
+<text x="205" y="327" fill="black" font-size="6" font-family="Helvetica">
+30
+</text>
+<text x="205" y="302" fill="black" font-size="6" font-family="Helvetica">
+40
+</text>
+<text x="205" y="277" fill="black" font-size="6" font-family="Helvetica">
+50
+</text>
+<text x="205" y="252" fill="black" font-size="6" font-family="Helvetica">
+60
+</text>
+<rect x="333" y="230" width="36" height="32" fill="white"/>
+<path d="M333,262h 36" fill="none" stroke="black"/>
+<path d="M369,262v -32" fill="none" stroke="black"/>
+<path d="M369,230h -36" fill="none" stroke="black"/>
+<path d="M333,230v 32" fill="none" stroke="black"/>
+<text x="341" y="236" fill="black" font-size="6" font-family="Helvetica">
+hresid2
+</text>
+<path d="M333,238h 36" fill="none" stroke="black"/>
+<text x="335" y="243" fill="black" font-size="4" font-family="Helvetica">
+Entries 
+</text>
+<text x="352" y="243" fill="black" font-size="4" font-family="Helvetica">
+ 620820
+</text>
+<text x="335" y="251" fill="black" font-size="4" font-family="Helvetica">
+Mean  
+</text>
+<text x="348" y="251" fill="black" font-size="4" font-family="Helvetica">
+ -0.001102
+</text>
+<text x="335" y="260" fill="black" font-size="4" font-family="Helvetica">
+RMS   
+</text>
+<text x="351" y="260" fill="black" font-size="4" font-family="Helvetica">
+ 0.05565
+</text>
+<text x="273" y="226" fill="black" font-size="8" font-family="Helvetica">
+resid2
+</text>
+<rect x="384" y="217" width="177" height="204" fill="white"/>
+<rect x="401" y="237" width="142" height="163" fill="white"/>
+<rect x="401" y="237" width="142" height="163" fill="none" stroke="black"/>
+<rect x="401" y="237" width="142" height="163" fill="white"/>
+<rect x="401" y="237" width="142" height="163" fill="none" stroke="black"/>
+<path d="M401,341h 2v 36h 1v -23h 3v 17h 1v 3h 2v -3h 1v -24h 2v 4h 1v -20h 2v 23h 1v 20h 1v 3h 2v -3h 1v -7h 2v -26h 1v 10h 2v 10h 1v -7h 1v 26h 2v -19h 1v -7h 2v -13h 1v 23h 3v -13h 1v 16h 2v 10h 1v -3h 2v -20h 1v 17h 1v 9h 3v 14h 2v 3h 1v 3h 7v
+ -3h 2v -3h 1v -4h 1v 7h 2v -30h 1v -36h 2v -37h 1v -39h 2v -10h 1v 49h 1v -36h 2v -7h 1v 4h 2v 36h 1v 46h 2v 30h 1v 10h 1v 17h 3v 3h 2v 3h 7v -3h 1v -7h 2v -10h 1v -3h 1v -13h 2v 7h 3v -10h 1v 19h 2v -23h 1v -6h 1v 10h 2v 3h 1v 3h 2v 23h 1v -23h 1v
+ 7h 2v -40h 1v 10h 2v 20h 1v -30h 2v 30h 1v 13h 1v -20h 2v -3h 1v 7h 2v -14h 3v 17h 1v 7h 1v -4h 2v -6h 1v -10h 2v -7h 1v 13h 1" fill="none" stroke="#000099"/>
+<rect x="522" y="230" width="36" height="32" fill="white"/>
+<path d="M522,262h 36" fill="none" stroke="black"/>
+<path d="M558,262v -32" fill="none" stroke="black"/>
+<path d="M558,230h -36" fill="none" stroke="black"/>
+<path d="M522,230v 32" fill="none" stroke="black"/>
+<text x="530" y="236" fill="black" font-size="6" font-family="Helvetica">
+hresid3
+</text>
+<path d="M522,238h 36" fill="none" stroke="black"/>
+<text x="524" y="243" fill="black" font-size="4" font-family="Helvetica">
+Entries 
+</text>
+<text x="541" y="243" fill="black" font-size="4" font-family="Helvetica">
+ 621063
+</text>
+<text x="524" y="251" fill="black" font-size="4" font-family="Helvetica">
+Mean  
+</text>
+<text x="536" y="251" fill="black" font-size="4" font-family="Helvetica">
+ 0.0004483
+</text>
+<text x="524" y="260" fill="black" font-size="4" font-family="Helvetica">
+RMS   
+</text>
+<text x="540" y="260" fill="black" font-size="4" font-family="Helvetica">
+ 0.05808
+</text>
+<path d="M401,400h 142" fill="none" stroke="black"/>
+<text x="530" y="413" fill="black" font-size="6" font-family="Helvetica">
+ [cm]
+</text>
+<text x="523" y="415" fill="black" font-size="4" font-family="Helvetica">
+true
+</text>
+<text x="518" y="413" fill="black" font-size="6" font-family="Helvetica">
+-z
+</text>
+<text x="514" y="415" fill="black" font-size="4" font-family="Helvetica">
+hit
+</text>
+<text x="509" y="413" fill="black" font-size="6" font-family="Helvetica">
+ z
+</text>
+<path d="M401,395v 5" fill="none" stroke="black"/>
+<path d="M405,398v 2" fill="none" stroke="black"/>
+<path d="M408,398v 2" fill="none" stroke="black"/>
+<path d="M412,398v 2" fill="none" stroke="black"/>
+<path d="M416,395v 5" fill="none" stroke="black"/>
+<path d="M419,398v 2" fill="none" stroke="black"/>
+<path d="M423,398v 2" fill="none" stroke="black"/>
+<path d="M426,398v 2" fill="none" stroke="black"/>
+<path d="M430,395v 5" fill="none" stroke="black"/>
+<path d="M433,398v 2" fill="none" stroke="black"/>
+<path d="M437,398v 2" fill="none" stroke="black"/>
+<path d="M440,398v 2" fill="none" stroke="black"/>
+<path d="M444,395v 5" fill="none" stroke="black"/>
+<path d="M448,398v 2" fill="none" stroke="black"/>
+<path d="M451,398v 2" fill="none" stroke="black"/>
+<path d="M455,398v 2" fill="none" stroke="black"/>
+<path d="M458,395v 5" fill="none" stroke="black"/>
+<path d="M462,398v 2" fill="none" stroke="black"/>
+<path d="M465,398v 2" fill="none" stroke="black"/>
+<path d="M469,398v 2" fill="none" stroke="black"/>
+<path d="M472,395v 5" fill="none" stroke="black"/>
+<path d="M476,398v 2" fill="none" stroke="black"/>
+<path d="M480,398v 2" fill="none" stroke="black"/>
+<path d="M483,398v 2" fill="none" stroke="black"/>
+<path d="M487,395v 5" fill="none" stroke="black"/>
+<path d="M490,398v 2" fill="none" stroke="black"/>
+<path d="M494,398v 2" fill="none" stroke="black"/>
+<path d="M497,398v 2" fill="none" stroke="black"/>
+<path d="M501,395v 5" fill="none" stroke="black"/>
+<path d="M504,398v 2" fill="none" stroke="black"/>
+<path d="M508,398v 2" fill="none" stroke="black"/>
+<path d="M512,398v 2" fill="none" stroke="black"/>
+<path d="M515,395v 5" fill="none" stroke="black"/>
+<path d="M519,398v 2" fill="none" stroke="black"/>
+<path d="M522,398v 2" fill="none" stroke="black"/>
+<path d="M526,398v 2" fill="none" stroke="black"/>
+<path d="M529,395v 5" fill="none" stroke="black"/>
+<path d="M533,398v 2" fill="none" stroke="black"/>
+<path d="M536,398v 2" fill="none" stroke="black"/>
+<path d="M540,398v 2" fill="none" stroke="black"/>
+<path d="M543,395v 5" fill="none" stroke="black"/>
+<path d="M401,395v 5" fill="none" stroke="black"/>
+<text x="396" y="407" fill="black" font-size="6" font-family="Helvetica">
+-0.1
+</text>
+<text x="409" y="407" fill="black" font-size="6" font-family="Helvetica">
+-0.08
+</text>
+<text x="422" y="407" fill="black" font-size="6" font-family="Helvetica">
+-0.06
+</text>
+<text x="437" y="407" fill="black" font-size="6" font-family="Helvetica">
+-0.04
+</text>
+<text x="451" y="407" fill="black" font-size="6" font-family="Helvetica">
+-0.02
+</text>
+<text x="470" y="407" fill="black" font-size="6" font-family="Helvetica">
+0
+</text>
+<text x="480" y="407" fill="black" font-size="6" font-family="Helvetica">
+0.02
+</text>
+<text x="495" y="407" fill="black" font-size="6" font-family="Helvetica">
+0.04
+</text>
+<text x="509" y="407" fill="black" font-size="6" font-family="Helvetica">
+0.06
+</text>
+<text x="523" y="407" fill="black" font-size="6" font-family="Helvetica">
+0.08
+</text>
+<text x="539" y="407" fill="black" font-size="6" font-family="Helvetica">
+0.1
+</text>
+<path d="M401,400v -163" fill="none" stroke="black"/>
+<g transform="rotate(-90,393,256)">
+<text x="393" y="256" fill="black" font-size="6" font-family="Helvetica">
+ events
+</text>
+</g>
+<path d="M406,400h -5" fill="none" stroke="black"/>
+<path d="M404,397h -3" fill="none" stroke="black"/>
+<path d="M404,394h -3" fill="none" stroke="black"/>
+<path d="M404,390h -3" fill="none" stroke="black"/>
+<path d="M404,387h -3" fill="none" stroke="black"/>
+<path d="M406,384h -5" fill="none" stroke="black"/>
+<path d="M404,380h -3" fill="none" stroke="black"/>
+<path d="M404,377h -3" fill="none" stroke="black"/>
+<path d="M404,374h -3" fill="none" stroke="black"/>
+<path d="M404,371h -3" fill="none" stroke="black"/>
+<path d="M406,367h -5" fill="none" stroke="black"/>
+<path d="M404,364h -3" fill="none" stroke="black"/>
+<path d="M404,361h -3" fill="none" stroke="black"/>
+<path d="M404,357h -3" fill="none" stroke="black"/>
+<path d="M404,354h -3" fill="none" stroke="black"/>
+<path d="M406,351h -5" fill="none" stroke="black"/>
+<path d="M404,347h -3" fill="none" stroke="black"/>
+<path d="M404,344h -3" fill="none" stroke="black"/>
+<path d="M404,341h -3" fill="none" stroke="black"/>
+<path d="M404,337h -3" fill="none" stroke="black"/>
+<path d="M406,334h -5" fill="none" stroke="black"/>
+<path d="M404,331h -3" fill="none" stroke="black"/>
+<path d="M404,327h -3" fill="none" stroke="black"/>
+<path d="M404,324h -3" fill="none" stroke="black"/>
+<path d="M404,321h -3" fill="none" stroke="black"/>
+<path d="M406,318h -5" fill="none" stroke="black"/>
+<path d="M404,314h -3" fill="none" stroke="black"/>
+<path d="M404,311h -3" fill="none" stroke="black"/>
+<path d="M404,308h -3" fill="none" stroke="black"/>
+<path d="M404,304h -3" fill="none" stroke="black"/>
+<path d="M406,301h -5" fill="none" stroke="black"/>
+<path d="M404,298h -3" fill="none" stroke="black"/>
+<path d="M404,294h -3" fill="none" stroke="black"/>
+<path d="M404,291h -3" fill="none" stroke="black"/>
+<path d="M404,288h -3" fill="none" stroke="black"/>
+<path d="M406,284h -5" fill="none" stroke="black"/>
+<path d="M404,281h -3" fill="none" stroke="black"/>
+<path d="M404,278h -3" fill="none" stroke="black"/>
+<path d="M404,275h -3" fill="none" stroke="black"/>
+<path d="M404,271h -3" fill="none" stroke="black"/>
+<path d="M406,268h -5" fill="none" stroke="black"/>
+<path d="M404,265h -3" fill="none" stroke="black"/>
+<path d="M404,261h -3" fill="none" stroke="black"/>
+<path d="M404,258h -3" fill="none" stroke="black"/>
+<path d="M404,255h -3" fill="none" stroke="black"/>
+<path d="M406,251h -5" fill="none" stroke="black"/>
+<path d="M406,251h -5" fill="none" stroke="black"/>
+<path d="M404,248h -3" fill="none" stroke="black"/>
+<path d="M404,245h -3" fill="none" stroke="black"/>
+<path d="M404,241h -3" fill="none" stroke="black"/>
+<path d="M404,238h -3" fill="none" stroke="black"/>
+<text x="397" y="403" fill="black" font-size="6" font-family="Helvetica">
+0
+</text>
+<text x="397" y="386" fill="black" font-size="6" font-family="Helvetica">
+5
+</text>
+<text x="394" y="370" fill="black" font-size="6" font-family="Helvetica">
+10
+</text>
+<text x="394" y="353" fill="black" font-size="6" font-family="Helvetica">
+15
+</text>
+<text x="394" y="336" fill="black" font-size="6" font-family="Helvetica">
+20
+</text>
+<text x="394" y="320" fill="black" font-size="6" font-family="Helvetica">
+25
+</text>
+<text x="394" y="303" fill="black" font-size="6" font-family="Helvetica">
+30
+</text>
+<text x="394" y="286" fill="black" font-size="6" font-family="Helvetica">
+35
+</text>
+<text x="394" y="270" fill="black" font-size="6" font-family="Helvetica">
+40
+</text>
+<text x="394" y="253" fill="black" font-size="6" font-family="Helvetica">
+45
+</text>
+<rect x="522" y="230" width="36" height="32" fill="white"/>
+<path d="M522,262h 36" fill="none" stroke="black"/>
+<path d="M558,262v -32" fill="none" stroke="black"/>
+<path d="M558,230h -36" fill="none" stroke="black"/>
+<path d="M522,230v 32" fill="none" stroke="black"/>
+<text x="530" y="236" fill="black" font-size="6" font-family="Helvetica">
+hresid3
+</text>
+<path d="M522,238h 36" fill="none" stroke="black"/>
+<text x="524" y="243" fill="black" font-size="4" font-family="Helvetica">
+Entries 
+</text>
+<text x="541" y="243" fill="black" font-size="4" font-family="Helvetica">
+ 621063
+</text>
+<text x="524" y="251" fill="black" font-size="4" font-family="Helvetica">
+Mean  
+</text>
+<text x="536" y="251" fill="black" font-size="4" font-family="Helvetica">
+ 0.0004483
+</text>
+<text x="524" y="260" fill="black" font-size="4" font-family="Helvetica">
+RMS   
+</text>
+<text x="540" y="260" fill="black" font-size="4" font-family="Helvetica">
+ 0.05808
+</text>
+<text x="462" y="226" fill="black" font-size="8" font-family="Helvetica">
+resid3
+</text></svg>
