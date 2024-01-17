@@ -14,6 +14,7 @@
 #include "TPad.h"
 
 #include <cassert>
+#include <cmath>
 
 typedef TMatrixTSym<double>	TMatrixDSym;
 
@@ -74,10 +75,14 @@ public:
   
 
 
-  double pt() const { return 0;}//needs changes
+  double pt() const {
+    return 0.3 * r() / 100 * B();
+  }
 
   double rErr() const { return sqrt(fCov(0,0));}
-  double ptErr() const { return 1000;}//needs changes
+  double ptErr() const {
+    return rErr() * pt() / r(); // rErr * d(pt) / dr
+  }
 
 
   double cov(int i, int j) const { return fCov(i,j);}
@@ -90,12 +95,16 @@ public:
   
   void setCov(int i, int j, double c) { fCov(i,j) = c;}
   
-  double x(double lambda) const { return 0;}//needs changes
-  double z(double lambda) const { return 0;}//needs changes
+  double x(double lambda) const {
+    return x0() + charge() * r() * std::sin(charge() * lambda + phi0());
+  }
+  double z(double lambda) const {
+    return z0() - charge() * r() * std::cos(charge() * lambda + phi0());
+  }
   double y(double) const { return 0; }
   
   double lambdaFromX(double posx) const { //needs changes
-    return 0;
+    return (std::asin((posx - x0()) / (charge() * r())) - phi0()) / charge();
   }
 
   static double B() {
@@ -140,7 +149,7 @@ unsigned char getSignal(const std::string& n)
   int c = app->depEinNode(n) * 600000;
   //if(c > 0) std::cout << "getSignal for " << n << " :" << c << std::endl;
   //add noise
-  c += gRandom->Gaus(0,3);
+  // c += gRandom->Gaus(0,3);
   //noise cut
   int noisecut = 0;
   if( c < noisecut ) return 0;
@@ -394,11 +403,11 @@ void tracking2()
   geom+=Bfield; geom.Append(")"); 
   app->InitMC(geom); 
 
-  bool doFit = false;
+  bool doFit = true;
 
   // define particle and control parameters of loop   
-  unsigned int nevt = 1;
-  double p = 1.0;
+  unsigned int nevt = 500;
+  double p = 5.0;
   app->SetPrimaryPDG(-13);    // +/-11: PDG code of e+/- 
   /* other PDG codes     22: Photon    +-13: muon   
                      +/-211: pion   +/-2212: proton     */
@@ -412,7 +421,8 @@ void tracking2()
   TObjArray* clusters = new TObjArray();
   clusters->SetOwner(true);
   for(unsigned int i=0;i<nevt;++i) {
-    bool draw = !i;
+    // bool draw = !i;
+    bool draw = i == nevt - 1;
     double z = gRandom->Uniform(-5.0,5.0);
     app->SetPrimaryVertex(-50,0,z);
     double phi = gRandom->Uniform(TMath::Pi()/2-0.1,TMath::Pi()/2+0.1);
