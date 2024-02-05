@@ -69,7 +69,7 @@ void CaloAna()
 // initialize geometry: volumes and materials of a Sampling Calorimeter   
   Double_t AbsWid=2.;         //Absorber width
   Double_t SciWid=1.;         //Scintillator width, 
-  Double_t SizeFact=0.7;      //size of the calorimeter in interaction lengths labmda_I, 4.
+  Double_t SizeFact=4;      //size of the calorimeter in interaction lengths labmda_I, 4. orig=0.7
   Int_t IMat=1;               //material 1:Pb 2:Fe 
   TString geom("geometry/SamplingCalorimeter(");
   geom+=AbsWid; geom.Append(",");
@@ -103,12 +103,22 @@ void CaloAna()
   TH1F* hhelp; // for analysis of internal histograms
   Double_t xp[1]={0.90},xq[1];
 
-  unsigned int nevt = 100;
+  unsigned int nevt = 1;
   double       p = 3;//GeV
 
-  app->SetPrimaryPDG(-11); 
+  
+  int particle = -11;
+  app->SetPrimaryPDG(particle); 
   /* PDG codes     22: Photon    +/-11: e+/-  +-13: muon   
                +/-211: pion    +/-2212: proton              */
+  double calibration = 0;
+  switch(particle) {
+    case -11:
+      calibration = 14.4; break;
+    case -211:
+      calibration = 67; break;
+  }
+
   app->SetPrimaryMomentum(p);
   for(unsigned int i = 0 ; i < nevt ; ++i) {
     app->RunMC(1,!(i%10)); 
@@ -129,13 +139,17 @@ void CaloAna()
   }
   
   // events at different momenta
-  nevt = 100; p = 0.1;
+  nevt = 1000; p = 0.1;
   double stepping = 9.9 / nevt;
   // generate a large number of events
   for(unsigned int i=0;i<nevt;++i) {
     app->SetPrimaryMomentum(p);
     app->RunMC(1,!(i%10));
-    hcounts->Fill(p,CountChargedinScint());
+    Int_t charge = CountChargedinScint();
+    hcounts->Fill(p, charge);
+    if(calibration != 0){
+      hresponse->Fill(p, charge/calibration/p);
+    }
     p += stepping;
     
     // reset internal histograms
@@ -148,4 +162,7 @@ void CaloAna()
   c->cd(2);  hwidth->Draw();
   c->cd(3);  hlength->Draw();
   c->cd(4);  hcounts->Draw();
+  
+  TCanvas* calCanv = new TCanvas();
+  hresponse->Draw();
 }
