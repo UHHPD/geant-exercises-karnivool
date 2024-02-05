@@ -81,13 +81,13 @@ void CaloAna()
 
 // Book histogram(s)
  // for shower analyis
-  TH1F* hx  = new TH1F("hx","starting point of shower",100, 0.,25.);
+  TH1F* hx  = new TH1F("hx","starting point of shower",100, 0.,200.);
   hx->SetYTitle("# of entries");  
   hx->SetXTitle("x of first vertex [cm]");
-  TH1F* hwidth  = new TH1F("hwidth","width of the shower",50,0.,25.);
+  TH1F* hwidth  = new TH1F("hwidth","width of the shower",50,0.,200.);
   hwidth->SetYTitle("# of entries");
   hwidth->SetXTitle("width of the shower [cm]");
-  TH1F* hlength = new TH1F("hlength","length of the shower",50,0.,25.);
+  TH1F* hlength = new TH1F("hlength","length of the shower",50,0.,200.);
   hlength->SetYTitle("# of entries");
   hlength->SetXTitle("length of the shower [cm]");
   // for hit counting
@@ -97,17 +97,17 @@ void CaloAna()
   hcounts->SetXTitle("energy [GeV]");
   hcounts->SetYTitle("mean number of counts");
   TH2D* hresponse = new TH2D("hresponse","measured energy/particle energy vs particle energy; energy [GeV]; response",
-			     20,0.,10.,50,0,2);
+			     10,0.,10.,25,0,2);
 
 //simulate events at fixed momentum
   TH1F* hhelp; // for analysis of internal histograms
   Double_t xp[1]={0.90},xq[1];
 
-  unsigned int nevt = 1;
+  unsigned int nevt = 100;
   double       p = 3;//GeV
 
   
-  int particle = -11;
+  int particle = -211;
   app->SetPrimaryPDG(particle); 
   /* PDG codes     22: Photon    +/-11: e+/-  +-13: muon   
                +/-211: pion    +/-2212: proton              */
@@ -139,7 +139,7 @@ void CaloAna()
   }
   
   // events at different momenta
-  nevt = 1000; p = 0.1;
+  nevt = 100; p = 0.1;
   double stepping = 9.9 / nevt;
   // generate a large number of events
   for(unsigned int i=0;i<nevt;++i) {
